@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp href="Exp1.jnlp" spec="1.0+">
+    <information>
+        <title>Exp.1:Virtual Labs-FCMC IIT Kharagpur</title>
+        <vendor>Virtual Labs-FCMC IIT Kharagpur</vendor>
+        <homepage href=""/>
+        <description>Virtual Labs-FCMC IIT Kharagpur</description>
+        <description kind="short">ExpPL</description>
+
+    </information>
+<update check="always"/>
+<security>
+<all-permissions/>
+</security>
+    <resources>
+<j2se java-vm-args="-Djava.security.policy=applet.policy" version="1.5+"/>
+<jar href="ExpPL.jar" main="true"/>
+
+
+    <jar href="lib/jcommon-1.0.16.jar"/>
+<jar href="lib/iText-2.1.5.jar"/>
+<jar href="lib/jfreechart-1.0.13.jar"/>
+</resources>
+    <applet-desc height="670" main-class="exppl.ExpPL" name="ExpPL" width="890">
+
+    </applet-desc>
+</jnlp>
