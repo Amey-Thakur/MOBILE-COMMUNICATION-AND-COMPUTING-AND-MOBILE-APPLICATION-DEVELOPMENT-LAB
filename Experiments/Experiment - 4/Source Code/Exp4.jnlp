@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp href="Exp4.jnlp" spec="1.0+">
+    <information>
+        <title>Exp4:Virtual Labs-FCMC IIT Kharagpur</title>
+        <vendor>Virtual Labs-FCMC IIT Kharagpur</vendor>
+        <homepage href=""/>
+        <description>Fading Channels and Mobile Communication Virtual Lab IIT Kharagpur</description>
+        <description kind="short">Exp4: Boundary Coverage Virtual Labs-FCMC IIT Kharagpur</description>
+
+    </information>
+<update check="always"/>
+<security>
+<all-permissions/>
+</security>
+    <resources>
+<j2se java-vm-args="-Djava.security.policy=applet.policy" version="1.5+"/>
+<jar href="Exp4.jar" main="true"/>
+
+
+    <jar href="lib/iText-2.1.5.jar"/>
+</resources>
+    <applet-desc height="588" main-class="boundarycoverage.BoundaryCoverage" name="Exp4: Boundary Coverage Virtual Labs-FCMC IIT Kharagpur" width="1058">
+
+    </applet-desc>
+</jnlp>
