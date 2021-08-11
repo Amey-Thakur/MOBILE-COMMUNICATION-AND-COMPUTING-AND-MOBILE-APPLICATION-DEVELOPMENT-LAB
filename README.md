@@ -17,3 +17,7 @@
   - MAD Lab [Experiment - 8]() | [Virtual Lab](http://vlabs.iitkgp.ac.in/fcmc/exp8/index.html) | [Source Code](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/tree/main/Experiments/Experiment%20-%208/Source%20Code) | [Demo](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/Experiment%20-%208/Experiment-8.avi)
   - MAD Lab [Experiment - 9]() | [Virtual Lab](http://vlabs.iitkgp.ac.in/fcmc/exp9/index.html) | [Source Code]() | [Demo](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/Experiment%20-%209/Experiment-9.avi)
   - MAD Lab [Experiment - 10]() | [Virtual Lab](http://vlabs.iitkgp.ac.in/fcmc/exp10/index.html) | [Source Code](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/tree/main/Experiments/Experiment%20-%2010/Source%20Code) | [Demo](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/Experiment%20-%2010/Experiment-10.avi)
+
+## Quizzes
+
+  - MCC [Quiz -1](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Quizzes/MCC%20Quiz-1.pdf)
