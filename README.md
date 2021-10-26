@@ -16,6 +16,12 @@
   - MAD Lab [Experiment - 9](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/AMEY_B-50_MCC_EXPERIMENT-9.pdf)
   - MAD Lab [Experiment - 10](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/AMEY_B-50_MCC_EXPERIMENT-10.pdf)
 
+## Assignments
+
+  >Mobile Communication & Computing
+
+  - MCC [Assignment - 1](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Assignments/AMEY_B-50_MCC_ASSIGNMENT-1.pdf)
+
 ## Quizzes
 
-  - MCC [Quiz -1](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Quizzes/MCC%20Quiz-1.pdf)
+  - MCC [Quiz - 1](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Quizzes/MCC%20Quiz-1.pdf)
