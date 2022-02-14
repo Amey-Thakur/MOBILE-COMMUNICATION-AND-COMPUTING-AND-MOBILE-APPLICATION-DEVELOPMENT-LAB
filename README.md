@@ -9,11 +9,9 @@
 ---
 
 ## Assignments
-
  - MCC [Assignment - 1](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Assignments/AMEY_B-50_MCC_ASSIGNMENT-1.pdf)
 
 ## Experiments
-
  >Mobile Application Development Lab | [Virtual Lab](http://vlabs.iitkgp.ac.in/fcmc/index.html)
 
  - MAD Lab [Experiment - 1](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/AMEY_B-50_MCC_EXPERIMENT-1.pdf)
@@ -28,7 +26,6 @@
  - MAD Lab [Experiment - 10](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/AMEY_B-50_MCC_EXPERIMENT-10.pdf)
 
 ## Quizzes
-
  - MCC [Quiz - 1](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Quizzes/Quiz%201-%20MCC%20(CSC702).pdf)
  - MCC [Quiz - 2](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Quizzes/Quiz%202-%20MCC%20(CSC702).pdf)
  - MCC [Quiz - 3](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Quizzes/Quiz%203-%20MCC%20(CSC702).pdf)
@@ -37,19 +34,15 @@
  - MCC [Quiz - 6](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Quizzes/Quiz%206-%20MCC%20(CSC702).pdf)
 
 ## Internal Assessment Test
-
  - MCC [IAT - 1](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Internal%20Assessment%20Test/AMEY_B-50_MCC_IAT-1.pdf)
  - MCC [IAT - 2](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Internal%20Assessment%20Test/AMEY_B-50_MCC_IAT-2.pdf)
 
 ## Semester Exam
-
  - MCC [Answersheet](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Semester%20Exam/AMEY_B-50_7278000_MCC.pdf)
 
 ## Question Papers
-
  - [Previous Question Papers](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/tree/main/Question%20Papers)
 
 ## Exit Survey
-
  - MCC [Course Exit Survey](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Exit%20survey/MCC%20Course%20Exit%20Survey.pdf)
  - MCC [Lab Exit Survey](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Exit%20survey/MCC%20Laboratory%20Exit%20Survey.pdf)
