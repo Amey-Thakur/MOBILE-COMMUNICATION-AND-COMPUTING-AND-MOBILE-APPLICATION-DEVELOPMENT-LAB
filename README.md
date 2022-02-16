@@ -45,4 +45,4 @@
 
 ## Exit Survey
  - MCC [Course Exit Survey](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Exit%20survey/MCC%20Course%20Exit%20Survey.pdf)
- - MCC [Lab Exit Survey](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Exit%20survey/MCC%20Laboratory%20Exit%20Survey.pdf)
+ - MAD Lab [Exit Survey](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Exit%20survey/MCC%20Laboratory%20Exit%20Survey.pdf)
