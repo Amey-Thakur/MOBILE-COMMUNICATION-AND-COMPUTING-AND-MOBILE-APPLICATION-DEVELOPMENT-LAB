@@ -1,5 +1,5 @@
 # MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB
- CSC702: MCC & CSL702: MAD LAB [SEMESTER VII]
+ 👍🏻 CSC702: MCC & CSL702: MAD LAB [SEMESTER VII]
 
 ---
  
@@ -76,3 +76,9 @@
  - MCC [Course Exit Survey](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Exit%20survey/MCC%20Course%20Exit%20Survey.pdf)
  
  - MAD Lab [Exit Survey](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Exit%20survey/MCC%20Laboratory%20Exit%20Survey.pdf)
+
+---
+
+<p align="center"> <b> 👉🏻 Subject as a part of the 7th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
+ 
+<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
