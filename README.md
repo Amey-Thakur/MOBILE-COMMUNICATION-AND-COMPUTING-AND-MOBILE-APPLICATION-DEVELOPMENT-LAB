@@ -199,17 +199,17 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 
 Internal assessment evaluations conducted during the course:
 
-### IAT - 1
+### IAT - 1 - September 02, 2021
 
-| # | Resource | Description | Date |
-|:-:|:---|:---|:---:|
-| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_MCC_IAT-1.pdf) | MCC Internal Assessment Test 1 Answer Sheet | September 02, 2021 |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_MCC_IAT-1.pdf) | MCC Internal Assessment Test 1 Answer Sheet |
 
-### IAT - 2
+### IAT - 2 - October 12, 2021
 
-| # | Resource | Description | Date |
-|:-:|:---|:---|:---:|
-| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_MCC_IAT-2.pdf) | MCC Internal Assessment Test 2 Answer Sheet | October 12, 2021 |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_MCC_IAT-2.pdf) | MCC Internal Assessment Test 2 Answer Sheet |
 
 ---
 
