@@ -100,7 +100,7 @@ Understanding the path loss prediction formula
 
 | # | Document | Description |
 |:-:|:---|:---|
-| — | Lab Report (PDF) | Detailed experiment report | [View](AMEY_B-50_MCC_EXPERIMENT-1.pdf) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-1/AMEY_B-50_MCC_EXPERIMENT-1.pdf) |
 
 ---
 
@@ -115,7 +115,7 @@ Understanding the concept of co-channel interference and SINR (Signal to Interfe
 
 | # | Document | Description |
 |:-:|:---|:---|
-| — | Lab Report (PDF) | Detailed experiment report | [View](AMEY_B-50_MCC_EXPERIMENT-2.pdf) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-2/AMEY_B-50_MCC_EXPERIMENT-2.pdf) |
 
 ---
 
@@ -130,7 +130,7 @@ Understanding the cellular network frequency reuse concept - finding co-channel 
 
 | # | Document | Description |
 |:-:|:---|:---|
-| — | Lab Report (PDF) | Detailed experiment report | [View](AMEY_B-50_MCC_EXPERIMENT-3.pdf) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-3/AMEY_B-50_MCC_EXPERIMENT-3.pdf) |
 
 ---
 
@@ -145,7 +145,7 @@ Understanding the handover mechanism in mobile communication
 
 | # | Document | Description |
 |:-:|:---|:---|
-| — | Lab Report (PDF) | Detailed experiment report | [View](AMEY_B-50_MCC_EXPERIMENT-4.pdf) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-4/AMEY_B-50_MCC_EXPERIMENT-4.pdf) |
 
 ---
 
@@ -162,7 +162,7 @@ Write a program using WML to display user form with validation for WAP-enabled p
 |:-:|:---|:---|:-:|
 | 1 | Validation.wml | WML form for student registration | [View](Experiment-5/Validation.wml) |
 | 2 | Validate.wmls | WMLScript for form validation | [View](Experiment-5/Validate.wmls) |
-| — | Lab Report (PDF) | Detailed experiment report | [View](AMEY_B-50_MCC_EXPERIMENT-5.pdf) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-5/AMEY_B-50_MCC_EXPERIMENT-5.pdf) |
 
 ---
 
@@ -175,7 +175,7 @@ Develop an application using Fragments for modular UI
 
 | # | Document | Description |
 |:-:|:---|:---|
-| — | Lab Report (PDF) | Detailed experiment report | [View](AMEY_B-50_MCC_EXPERIMENT-6.pdf) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-6/AMEY_B-50_MCC_EXPERIMENT-6.pdf) |
 
 ---
 
@@ -188,7 +188,7 @@ Create a database application using SQLite for data persistence
 
 | # | Document | Description |
 |:-:|:---|:---|
-| — | Lab Report (PDF) | Detailed experiment report | [View](AMEY_B-50_MCC_EXPERIMENT-7.pdf) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-7/AMEY_B-50_MCC_EXPERIMENT-7.pdf) |
 
 ---
 
@@ -201,7 +201,7 @@ Implement data persistence using Shared Preferences
 
 | # | Document | Description |
 |:-:|:---|:---|
-| — | Lab Report (PDF) | Detailed experiment report | [View](AMEY_B-50_MCC_EXPERIMENT-8.pdf) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-8/AMEY_B-50_MCC_EXPERIMENT-8.pdf) |
 
 ---
 
@@ -214,7 +214,7 @@ Develop an application demonstrating background Services
 
 | # | Document | Description |
 |:-:|:---|:---|
-| — | Lab Report (PDF) | Detailed experiment report | [View](AMEY_B-50_MCC_EXPERIMENT-9.pdf) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-9/AMEY_B-50_MCC_EXPERIMENT-9.pdf) |
 
 ---
 
@@ -227,7 +227,7 @@ Create an application using Broadcast Receivers and Notifications
 
 | # | Document | Description |
 |:-:|:---|:---|
-| — | Lab Report (PDF) | Detailed experiment report | [View](AMEY_B-50_MCC_EXPERIMENT-10.pdf) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-10/AMEY_B-50_MCC_EXPERIMENT-10.pdf) |
 
 ---
 

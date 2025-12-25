@@ -129,16 +129,16 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 
 | # | Experiment | Date | Report |
 |:-:|:---|:---:|:-:|
-| 1 | Understanding of Path Loss | August 06, 2021 | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-1.pdf) |
-| 2 | Understanding Co-channel Interference and SINR | July 29, 2021 | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-2.pdf) |
-| 3 | Understanding Cellular Network Frequency Reuse | July 19, 2021 | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-3.pdf) |
-| 4 | Understanding the Handover Mechanism | August 13, 2021 | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-4.pdf) |
-| 5 | WML Form Validation for WAP-enabled Phones | August 20, 2021 | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-5.pdf) |
-| 6 | Develop an application using Fragments | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-6.pdf) |
-| 7 | Create a database application using SQLite | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-7.pdf) |
-| 8 | Implement data persistence using Shared Preferences | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-8.pdf) |
-| 9 | Develop an application demonstrating Services | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-9.pdf) |
-| 10 | Create an application using Broadcast Receivers and Notifications | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-10.pdf) |
+| 1 | Understanding of Path Loss | August 06, 2021 | [View](MAD%20Lab/Experiment-1/AMEY_B-50_MCC_EXPERIMENT-1.pdf) |
+| 2 | Understanding Co-channel Interference and SINR | July 29, 2021 | [View](MAD%20Lab/Experiment-2/AMEY_B-50_MCC_EXPERIMENT-2.pdf) |
+| 3 | Understanding Cellular Network Frequency Reuse | July 19, 2021 | [View](MAD%20Lab/Experiment-3/AMEY_B-50_MCC_EXPERIMENT-3.pdf) |
+| 4 | Understanding the Handover Mechanism | August 13, 2021 | [View](MAD%20Lab/Experiment-4/AMEY_B-50_MCC_EXPERIMENT-4.pdf) |
+| 5 | WML Form Validation for WAP-enabled Phones | August 20, 2021 | [View](MAD%20Lab/Experiment-5/AMEY_B-50_MCC_EXPERIMENT-5.pdf) |
+| 6 | Develop an application using Fragments | — | [View](MAD%20Lab/Experiment-6/AMEY_B-50_MCC_EXPERIMENT-6.pdf) |
+| 7 | Create a database application using SQLite | — | [View](MAD%20Lab/Experiment-7/AMEY_B-50_MCC_EXPERIMENT-7.pdf) |
+| 8 | Implement data persistence using Shared Preferences | — | [View](MAD%20Lab/Experiment-8/AMEY_B-50_MCC_EXPERIMENT-8.pdf) |
+| 9 | Develop an application demonstrating Services | — | [View](MAD%20Lab/Experiment-9/AMEY_B-50_MCC_EXPERIMENT-9.pdf) |
+| 10 | Create an application using Broadcast Receivers and Notifications | — | [View](MAD%20Lab/Experiment-10/AMEY_B-50_MCC_EXPERIMENT-10.pdf) |
 
 ### Laboratory Documentation
 
