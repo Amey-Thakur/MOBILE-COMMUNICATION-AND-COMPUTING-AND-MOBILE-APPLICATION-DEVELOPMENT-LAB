@@ -107,9 +107,11 @@ Understanding the path loss prediction formula
 <!-- =========================================================================================
                                      EXPERIMENT 2
      ========================================================================================= -->
-## Experiment 2: Android Layouts
+## Experiment 2: Understanding Co-channel Interference and SINR
 
-Implement different types of layouts in Android
+Understanding the concept of co-channel interference and SINR (Signal to Interference plus Noise Ratio)
+
+**Date:** July 29, 2021
 
 | # | Document | Description |
 |:-:|:---|:---|
