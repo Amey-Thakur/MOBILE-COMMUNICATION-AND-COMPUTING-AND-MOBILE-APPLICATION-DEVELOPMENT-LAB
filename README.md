@@ -225,7 +225,7 @@ Final semester examination submission:
 
 | # | Resource | Description | Date |
 |:-:|:---|:---|:---:|
-| 1 | [Answer Sheet](Semester%20Exam/AMEY_B-50_7278000_MCC.pdf) | MCC Semester Exam Answer Sheet | November 22, 2021 |
+| 1 | [Answer Sheet](Semester%20Exam/AMEY_B-50_7278000_MCC.pdf) | MCC Semester Exam Answer Sheet | November 24, 2021 |
 
 ---
 
