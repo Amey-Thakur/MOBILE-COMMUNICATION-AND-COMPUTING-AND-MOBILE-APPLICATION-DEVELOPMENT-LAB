@@ -298,7 +298,7 @@ Use these resources as reference materials for understanding mobile communicatio
 These materials may serve as curriculum references, lab examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
 
 **For Researchers**  
-The documentation and organization may provide insights into academic resource curation and educational content structuring for mobile computing courses.
+The documentation and organization may provide insights into academic resource curation and educational content structuring.
 
 ---
 
@@ -324,15 +324,15 @@ This repository and all linked academic content are made available under the **C
 **Institution:** [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University:** [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, assignments, quizzes, and lab reports curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Mobile Communication and Computing and Mobile Application Development Lab.
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Mobile Communication and Computing & MAD Lab.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
 ### Acknowledgments
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Mobile Communication and Computing. Their clear teaching and continued support helped develop a strong understanding of wireless communication systems and mobile application development.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Mobile Communication and Computing. Their clear teaching and continued support helped develop a strong understanding of wireless communication systems and mobile application development.
 
-Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience in mobile computing and Android development.
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
