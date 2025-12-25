@@ -131,7 +131,7 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 |:-:|:---|:---:|:-:|
 | 1 | Understanding of Path Loss | August 06, 2021 | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-1.pdf) |
 | 2 | Understanding Co-channel Interference and SINR | July 29, 2021 | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-2.pdf) |
-| 3 | Develop an application demonstrating Activity lifecycle | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-3.pdf) |
+| 3 | Understanding Cellular Network Frequency Reuse | July 19, 2021 | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-3.pdf) |
 | 4 | Create an application using Intents and passing data | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-4.pdf) |
 | 5 | Implement ListView with custom adapters | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-5.pdf) |
 | 6 | Develop an application using Fragments | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-6.pdf) |
