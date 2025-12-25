@@ -18,7 +18,7 @@
 
   ---
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#mobile-application-development-laboratory) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Exit Survey](#exit-survey) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#mobile-application-development-laboratory) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -257,16 +257,17 @@ Previous year university question papers:
 ---
 
 <!-- =========================================================================================
-                                     EXIT SURVEY SECTION
+                                     SUBMISSION COMPLETION REPORT
      ========================================================================================= -->
-## Exit Survey
+## Submission Completion Report
 
-Course and laboratory feedback surveys:
+Course completion documentation with exit survey:
 
-| # | Survey | Description |
+| # | Document | Description |
 |:-:|:---|:---|
-| 1 | [Course Exit Survey](Exit%20survey/MCC%20Course%20Exit%20Survey.pdf) | MCC course feedback and evaluation |
-| 2 | [Laboratory Exit Survey](Exit%20survey/MCC%20Laboratory%20Exit%20Survey.pdf) | MAD Lab feedback and evaluation |
+| 1 | [Submission Report](Semester%20Exam/AMEY_B-50_7278000_MCC.pdf) | Final coursework submission report |
+| 2 | [Exit Survey (Theory)](Exit%20survey/MCC%20Course%20Exit%20Survey.pdf) | Course outcome survey for MCC Theory |
+| 3 | [Exit Survey (Lab)](Exit%20survey/MCC%20Laboratory%20Exit%20Survey.pdf) | Course outcome survey for MAD Lab |
 
 ---
 
