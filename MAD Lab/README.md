@@ -92,9 +92,11 @@ Services and broadcast receivers for background operations.
 <!-- =========================================================================================
                                      EXPERIMENT 1
      ========================================================================================= -->
-## Experiment 1: Basic UI Components
+## Experiment 1: Understanding of Path Loss
 
-Create a simple Android application using basic UI components
+Understanding the path loss prediction formula
+
+**Date:** August 06, 2021
 
 | # | Document | Description |
 |:-:|:---|:---|

@@ -127,18 +127,18 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 
 > **Virtual Lab**: Mobile Application Development experiments can also be accessed through the [IIT Kharagpur Virtual Lab](http://vlabs.iitkgp.ac.in/fcmc/index.html).
 
-| # | Experiment | Report |
-|:-:|:---|:-:|
-| 1 | Create a simple Android application using basic UI components | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-1.pdf) |
-| 2 | Implement different types of layouts in Android | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-2.pdf) |
-| 3 | Develop an application demonstrating Activity lifecycle | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-3.pdf) |
-| 4 | Create an application using Intents and passing data | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-4.pdf) |
-| 5 | Implement ListView with custom adapters | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-5.pdf) |
-| 6 | Develop an application using Fragments | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-6.pdf) |
-| 7 | Create a database application using SQLite | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-7.pdf) |
-| 8 | Implement data persistence using Shared Preferences | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-8.pdf) |
-| 9 | Develop an application demonstrating Services | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-9.pdf) |
-| 10 | Create an application using Broadcast Receivers and Notifications | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-10.pdf) |
+| # | Experiment | Date | Report |
+|:-:|:---|:---:|:-:|
+| 1 | Understanding of Path Loss | August 06, 2021 | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-1.pdf) |
+| 2 | Implement different types of layouts in Android | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-2.pdf) |
+| 3 | Develop an application demonstrating Activity lifecycle | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-3.pdf) |
+| 4 | Create an application using Intents and passing data | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-4.pdf) |
+| 5 | Implement ListView with custom adapters | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-5.pdf) |
+| 6 | Develop an application using Fragments | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-6.pdf) |
+| 7 | Create a database application using SQLite | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-7.pdf) |
+| 8 | Implement data persistence using Shared Preferences | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-8.pdf) |
+| 9 | Develop an application demonstrating Services | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-9.pdf) |
+| 10 | Create an application using Broadcast Receivers and Notifications | — | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-10.pdf) |
 
 ### Laboratory Documentation
 
