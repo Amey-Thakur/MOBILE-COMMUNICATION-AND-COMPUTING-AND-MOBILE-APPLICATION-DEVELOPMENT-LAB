@@ -9,7 +9,8 @@
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
   [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#experiment-1-understanding-of-path-loss)
-  [![Language](https://img.shields.io/badge/Language-Java%20%7C%20XML-blueviolet.svg)](./)
+  [![Language](https://img.shields.io/badge/Language-Java%20%7C%20XML-orange.svg)](./)
+  [![Type](https://img.shields.io/badge/Type-PDF%20%7C%20DOCX-blueviolet.svg)](./)
 
   **A comprehensive collection of laboratory experiments for Mobile Application Development, covering Android UI design, activities, intents, fragments, services, databases, and mobile application architecture.**
 
