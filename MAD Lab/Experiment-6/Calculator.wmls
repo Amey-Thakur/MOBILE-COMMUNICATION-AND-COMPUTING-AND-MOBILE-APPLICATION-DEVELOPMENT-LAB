@@ -1,0 +1,25 @@
+/*
+    Author: Amey Thakur
+    Course: Mobile Communication and Computing (MCC) & Mobile Application Development Lab (MAD Lab)
+    Semester: VII | Batch: B3 | Roll No: 50
+    Experiment: 6 - WML Calculator and Calendar for Android Phones
+    Date: August 27, 2021
+    GitHub: https://github.com/Amey-Thakur
+    Repository: https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB
+*/
+
+extern function solve(a, b)
+{
+var d = WMLBrowser.getVar("op");
+var z = 0;
+if (d == "+") {
+z = a + b;
+} else if ( d == "-") {
+z = a - b;
+} else if ( d == "*") {
+z = a * b;
+} else if ( d == "/") {
+z = a / b;
+} WMLBrowser.setVar("r", z);
+WMLBrowser.go("Calculator.wml#card2");
+}

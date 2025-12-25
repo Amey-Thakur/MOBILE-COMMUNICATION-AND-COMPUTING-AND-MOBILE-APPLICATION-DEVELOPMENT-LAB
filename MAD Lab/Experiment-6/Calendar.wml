@@ -1,0 +1,32 @@
+<!--
+    Author: Amey Thakur
+    Course: Mobile Communication and Computing (MCC) & Mobile Application Development Lab (MAD Lab)
+    Semester: VII | Batch: B3 | Roll No: 50
+    Experiment: 6 - WML Calculator and Calendar for Android Phones
+    Date: August 27, 2021
+    GitHub: https://github.com/Amey-Thakur
+    Repository: https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB
+-->
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<card>
+<p>
+<h1>September 2021</h1><br/>
+<table columns="7">
+<tr><td>Su</td><td>Mo</td><td>Tu</td><td>We</td><td>Th</td><td>Fr</td><td>
+<td>Sa</td></tr>
+<tr><td> </td><td> </td><td>
+</td><td>1</td><td>2</ td><td>3</td><td>4</td></tr>
+<tr><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>1
+1</td></tr>
+<tr><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td>
+<td>18</td></tr>
+<tr><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td>
+<td>25</td></tr>
+<tr><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td></tr>
+</table>
+</p>
+</card>
+</wml>

@@ -1,0 +1,49 @@
+<!--
+    Author: Amey Thakur
+    Course: Mobile Communication and Computing (MCC) & Mobile Application Development Lab (MAD Lab)
+    Semester: VII | Batch: B3 | Roll No: 50
+    Experiment: 6 - WML Calculator and Calendar for Android Phones
+    Date: August 27, 2021
+    GitHub: https://github.com/Amey-Thakur
+    Repository: https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB
+-->
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.2//EN"
+"http://www.wapforum.org/DTD/wml12.dtd">
+<wml>
+<card id="card1" title="Calculator">
+<p>
+<h2> CALCULATOR </h2>
+<br/>
+<b>
+Enter 1st Number: <input name="x" title="First Number:"
+format="*N" />
+<br/><br/>
+Operator:
+<select name="op" title="Operation:">
+<option value="+">Addition</option>
+<option value="-">Subtraction</option>
+<option value="*">Multiplication</option>
+<option value="/">Division</option>
+</select>
+<br/><br/>
+Enter 2nd Number: <input name="y" title="Second Number:"
+format="*N" />
+<br/><br/>
+<do type="accept" label="Result">
+<go href="Calculator.wmls#solve($(x), $(y))"/>
+</do>
+</b>
+</p>
+</card>
+
+<card id="card2" title="result">
+<p>
+Here is the result:<br/>
+<b> $(x) $(op) $(y) = $(r) <b/>
+</p><b>
+<do type="accept" label="TRY WITH DIFFERENT VALUES"><b/>
+<prev/>
+</do>
+</card>
+</wml>
