@@ -136,7 +136,7 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 | 5 | WML Form Validation for WAP-enabled Phones | August 20, 2021 | [View](MAD%20Lab/Experiment-5/AMEY_B-50_MCC_EXPERIMENT-5.pdf) |
 | 6 | WML Calculator and Calendar for Android Phones | August 27, 2021 | [View](MAD%20Lab/Experiment-6/AMEY_B-50_MCC_EXPERIMENT-6.pdf) |
 | 7 | Analyzing Network Packets using Wireshark | September 17, 2021 | [View](MAD%20Lab/Experiment-7/AMEY_B-50_MCC_EXPERIMENT-7.pdf) |
-| 8 | Implement data persistence using Shared Preferences | — | [View](MAD%20Lab/Experiment-8/AMEY_B-50_MCC_EXPERIMENT-8.pdf) |
+| 8 | Ubuntu Installation and Wireless Network (MANET) using NS2 | September 24, 2021 | [View](MAD%20Lab/Experiment-8/AMEY_B-50_MCC_EXPERIMENT-8.pdf) |
 | 9 | Develop an application demonstrating Services | — | [View](MAD%20Lab/Experiment-9/AMEY_B-50_MCC_EXPERIMENT-9.pdf) |
 | 10 | Create an application using Broadcast Receivers and Notifications | — | [View](MAD%20Lab/Experiment-10/AMEY_B-50_MCC_EXPERIMENT-10.pdf) |
 
