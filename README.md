@@ -201,15 +201,15 @@ Internal assessment evaluations conducted during the course:
 
 ### IAT - 1
 
-| # | Resource | Description | Marks |
+| # | Resource | Description | Date |
 |:-:|:---|:---|:---:|
-| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_MCC_IAT-1.pdf) | MCC Internal Assessment Test 1 Answer Sheet | — |
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_MCC_IAT-1.pdf) | MCC Internal Assessment Test 1 Answer Sheet | September 02, 2021 |
 
 ### IAT - 2
 
-| # | Resource | Description | Marks |
+| # | Resource | Description | Date |
 |:-:|:---|:---|:---:|
-| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_MCC_IAT-2.pdf) | MCC Internal Assessment Test 2 Answer Sheet | — |
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_MCC_IAT-2.pdf) | MCC Internal Assessment Test 2 Answer Sheet | October 12, 2021 |
 
 ---
 
