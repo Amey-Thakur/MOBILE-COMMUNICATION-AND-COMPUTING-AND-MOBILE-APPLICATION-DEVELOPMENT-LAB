@@ -237,9 +237,11 @@ Write a program for android phone display user form and its validation for andro
 <!-- =========================================================================================
                                      EXPERIMENT 10
      ========================================================================================= -->
-## Experiment 10: Broadcast Receivers & Notifications
+## Experiment 10: Setup and Configuration of Wireless Access Points
 
-Create an application using Broadcast Receivers and Notifications
+Set up and configuration of wireless Access Points using Cisco Packet Tracer
+
+**Date:** October 08, 2021
 
 | # | Document | Description |
 |:-:|:---|:---|
