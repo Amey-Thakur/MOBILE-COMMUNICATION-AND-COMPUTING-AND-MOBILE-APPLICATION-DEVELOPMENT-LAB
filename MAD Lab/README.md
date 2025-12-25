@@ -122,9 +122,11 @@ Understanding the concept of co-channel interference and SINR (Signal to Interfe
 <!-- =========================================================================================
                                      EXPERIMENT 3
      ========================================================================================= -->
-## Experiment 3: Activity Lifecycle
+## Experiment 3: Understanding Cellular Network Frequency Reuse
 
-Develop an application demonstrating Activity lifecycle
+Understanding the cellular network frequency reuse concept - finding co-channel cells and cell clusters
+
+**Date:** July 19, 2021
 
 | # | Document | Description |
 |:-:|:---|:---|
