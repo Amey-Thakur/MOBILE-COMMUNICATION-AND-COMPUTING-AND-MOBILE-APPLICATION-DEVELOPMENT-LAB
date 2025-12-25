@@ -203,12 +203,15 @@ Analyze network packets using Wireshark packet analyzer
 <!-- =========================================================================================
                                      EXPERIMENT 8
      ========================================================================================= -->
-## Experiment 8: Shared Preferences
+## Experiment 8: Ubuntu Installation and Wireless Network (MANET) using NS2
 
-Implement data persistence using Shared Preferences
+Install Ubuntu in VirtualBox and create a small wireless network (MANET) using NS2
 
-| # | Document | Description |
-|:-:|:---|:---|
+**Date:** September 24, 2021
+
+| # | Program | Description | Source Code |
+|:-:|:---|:---|:-:|
+| 1 | manet_simulation.tcl | NS2 TCL script for wireless MANET | [View](Experiment-8/manet_simulation.tcl) |
 | — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-8/AMEY_B-50_MCC_EXPERIMENT-8.pdf) |
 
 ---
