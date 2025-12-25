@@ -87,11 +87,11 @@ This collection includes **comprehensive reference materials** covering all majo
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Description |
-|:-:|:---|:---|
-| 1 | [**Assignment 1**](Assignments/AMEY_B-50_MCC_ASSIGNMENT-1.pdf) | Mobile Communication Fundamentals and Network Architecture |
+| # | Assignment | Description | Date |
+|:-:|:---|:---|:---:|
+| 1 | [**Assignment 1**](Assignments/AMEY_B-50_MCC_ASSIGNMENT-1.pdf) | Electromagnetic Spectrum, Mobile IP Tunneling, WCDMA vs CDMA2000 | October 22, 2021 |
 
-**Topics Covered**: Wireless Communication · Mobile Computing Architecture · GSM Networks · Mobile IP · Android Development
+**Topics Covered**: Electromagnetic Spectrum for Communication · Mobile IP Packet Forwarding and Tunneling · Encapsulation Techniques for Mobile IP · WCDMA and CDMA2000 Comparison
 
 ---
 
