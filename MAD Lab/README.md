@@ -60,6 +60,35 @@ Each experiment includes comprehensive PDF reports covering:
 ---
 
 <!-- =========================================================================================
+                                     LEARNING PATH SECTION
+     ========================================================================================= -->
+## Learning Path
+
+### Phase 1: Concepts of Mobile Communication
+Understanding foundational concepts of wireless networks.
+- **Experiment 1**: Path Loss.
+- **Experiment 2**: Co-channel Interference & SINR.
+- **Experiment 3**: Frequency Reuse.
+- **Experiment 4**: Handover Mechanisms.
+
+### Phase 2: Mobile Application Development (WAP/WML)
+Legacy mobile web development.
+- **Experiment 5**: WML Form Validation.
+- **Experiment 6**: WML Calculator & Calendar.
+
+### Phase 3: Network Simulation & Analysis
+Hands-on with network tools.
+- **Experiment 7**: Packet Analysis with Wireshark.
+- **Experiment 8**: MANET Simulation with NS2.
+- **Experiment 10**: Wireless Access Point Configuration.
+
+### Phase 4: Android Development
+Modern mobile app development.
+- **Experiment 9**: Android User Form with Validation.
+
+---
+
+<!-- =========================================================================================
                                      EXPERIMENT 1
      ========================================================================================= -->
 ## Experiment 1: Understanding of Path Loss
