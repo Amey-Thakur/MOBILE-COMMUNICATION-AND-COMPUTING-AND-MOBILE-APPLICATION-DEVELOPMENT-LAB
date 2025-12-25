@@ -78,7 +78,8 @@ This collection includes **comprehensive reference materials** covering all majo
 | 6 | [MCC Module 5](Reference%20Books/mcc_5.pdf) | Mobile Ad-hoc Networks (MANET) |
 | 7 | [MCC Module 6](Reference%20Books/mcc_6.pdf) | Android Application Development |
 | 8 | [MCC Index](Reference%20Books/mcc%20index.pdf) | Index of topics and notes |
-| 9 | [MCC VIVA](Reference%20Books/MCC%20VIVA.docx) | Viva preparation questions |
+| 9 | [MCC VIVA](Reference%20Books/MCC%20VIVA.pdf) | Viva preparation questions |
+| 10 | [MCC VIVA (Word)](Reference%20Books/MCC%20VIVA.docx) | Viva preparation questions (editable) |
 
 ---
 
