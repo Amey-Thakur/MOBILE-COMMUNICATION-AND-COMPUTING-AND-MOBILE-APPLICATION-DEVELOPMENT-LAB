@@ -188,9 +188,11 @@ Write a program using WML to display a calculator and calendar for android phone
 <!-- =========================================================================================
                                      EXPERIMENT 7
      ========================================================================================= -->
-## Experiment 7: SQLite Database
+## Experiment 7: Analyzing Network Packets using Wireshark
 
-Create a database application using SQLite for data persistence
+Analyze network packets using Wireshark packet analyzer
+
+**Date:** September 17, 2021
 
 | # | Document | Description |
 |:-:|:---|:---|
