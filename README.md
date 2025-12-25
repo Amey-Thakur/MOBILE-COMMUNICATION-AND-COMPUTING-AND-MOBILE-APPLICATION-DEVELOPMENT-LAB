@@ -140,6 +140,92 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 | 9 | Android User Form with Validation | October 01, 2021 | [View](MAD%20Lab/Experiment-9/AMEY_B-50_MCC_EXPERIMENT-9.pdf) |
 | 10 | Setup and Configuration of Wireless Access Points | October 08, 2021 | [View](MAD%20Lab/Experiment-10/AMEY_B-50_MCC_EXPERIMENT-10.pdf) |
 
+### Program Details
+
+<details>
+<summary><b>Experiment 1: Understanding of Path Loss (No Code)</b></summary>
+
+Virtual Lab experiment - No source code files
+
+</details>
+
+<details>
+<summary><b>Experiment 2: Understanding Co-channel Interference and SINR (No Code)</b></summary>
+
+Virtual Lab experiment - No source code files
+
+</details>
+
+<details>
+<summary><b>Experiment 3: Understanding Cellular Network Frequency Reuse (No Code)</b></summary>
+
+Virtual Lab experiment - No source code files
+
+</details>
+
+<details>
+<summary><b>Experiment 4: Understanding the Handover Mechanism (No Code)</b></summary>
+
+Virtual Lab experiment - No source code files
+
+</details>
+
+<details>
+<summary><b>Experiment 5: WML Form Validation (2 Programs)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:---:|
+| <kbd>Validation.wml</kbd> | WML | WML form for student registration | [View](MAD%20Lab/Experiment-5/Validation.wml) |
+| <kbd>Validate.wmls</kbd> | WMLScript | WMLScript for form validation | [View](MAD%20Lab/Experiment-5/Validate.wmls) |
+
+</details>
+
+<details>
+<summary><b>Experiment 6: WML Calculator and Calendar (3 Programs)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:---:|
+| <kbd>Calculator.wml</kbd> | WML | WML calculator interface | [View](MAD%20Lab/Experiment-6/Calculator.wml) |
+| <kbd>Calculator.wmls</kbd> | WMLScript | WMLScript calculator logic | [View](MAD%20Lab/Experiment-6/Calculator.wmls) |
+| <kbd>Calendar.wml</kbd> | WML | WML calendar display | [View](MAD%20Lab/Experiment-6/Calendar.wml) |
+
+</details>
+
+<details>
+<summary><b>Experiment 7: Analyzing Network Packets using Wireshark (No Code)</b></summary>
+
+Wireshark installation and packet analysis - No source code files
+
+</details>
+
+<details>
+<summary><b>Experiment 8: Ubuntu and MANET using NS2 (1 Program)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:---:|
+| <kbd>manet_simulation.tcl</kbd> | NS2 TCL | NS2 TCL script for wireless MANET | [View](MAD%20Lab/Experiment-8/manet_simulation.tcl) |
+
+</details>
+
+<details>
+<summary><b>Experiment 9: Android User Form with Validation (3 Programs)</b></summary>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:---:|
+| <kbd>strings.xml</kbd> | Android Resource | Android resource strings | [View](MAD%20Lab/Experiment-9/strings.xml) |
+| <kbd>activity_main.xml</kbd> | Android Layout | Registration form layout | [View](MAD%20Lab/Experiment-9/activity_main.xml) |
+| <kbd>MainActivity.java</kbd> | Android Activity | Form validation logic | [View](MAD%20Lab/Experiment-9/MainActivity.java) |
+
+</details>
+
+<details>
+<summary><b>Experiment 10: Wireless Access Points Configuration (No Code)</b></summary>
+
+Cisco Packet Tracer setup and configuration - No source code files
+
+</details>
+
+
 ### Laboratory Documentation
 
 | # | Resource | Description |
