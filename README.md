@@ -265,9 +265,8 @@ Course completion documentation with exit survey:
 
 | # | Document | Description |
 |:-:|:---|:---|
-| 1 | [Submission Report](Semester%20Exam/AMEY_B-50_7278000_MCC.pdf) | Final coursework submission report |
-| 2 | [Exit Survey (Theory)](Exit%20survey/MCC%20Course%20Exit%20Survey.pdf) | Course outcome survey for MCC Theory |
-| 3 | [Exit Survey (Lab)](Exit%20survey/MCC%20Laboratory%20Exit%20Survey.pdf) | Course outcome survey for MAD Lab |
+| 1 | [Exit Survey (Theory)](Exit%20survey/MCC%20Course%20Exit%20Survey.pdf) | Course outcome survey for MCC Theory |
+| 2 | [Exit Survey (Lab)](Exit%20survey/MCC%20Laboratory%20Exit%20Survey.pdf) | Course outcome survey for MAD Lab |
 
 ---
 
