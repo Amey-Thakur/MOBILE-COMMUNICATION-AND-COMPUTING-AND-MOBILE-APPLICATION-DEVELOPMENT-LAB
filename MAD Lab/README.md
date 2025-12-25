@@ -137,9 +137,11 @@ Understanding the cellular network frequency reuse concept - finding co-channel 
 <!-- =========================================================================================
                                      EXPERIMENT 4
      ========================================================================================= -->
-## Experiment 4: Intents & Data Passing
+## Experiment 4: Understanding the Handover Mechanism
 
-Create an application using Intents and passing data between activities
+Understanding the handover mechanism in mobile communication
+
+**Date:** August 13, 2021
 
 | # | Document | Description |
 |:-:|:---|:---|
