@@ -169,13 +169,19 @@ Write a program using WML to display user form with validation for WAP-enabled p
 <!-- =========================================================================================
                                      EXPERIMENT 6
      ========================================================================================= -->
-## Experiment 6: Fragments
+## Experiment 6: WML Calculator and Calendar for Android Phones
 
-Develop an application using Fragments for modular UI
+Write a program using WML to display a calculator and calendar for android phones
 
-| # | Document | Description |
-|:-:|:---|:---|
+**Date:** August 27, 2021
+
+| # | Program | Description | Source Code |
+|:-:|:---|:---|:-:|
+| 1 | Calculator.wml | WML calculator interface | [View](Experiment-6/Calculator.wml) |
+| 2 | Calculator.wmls | WMLScript calculator logic | [View](Experiment-6/Calculator.wmls) |
+| 3 | Calendar.wml | WML calendar display | [View](Experiment-6/Calendar.wml) |
 | — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-6/AMEY_B-50_MCC_EXPERIMENT-6.pdf) |
+| — | Lab Report 6A (PDF) | Frequency Reuse Virtual Lab | [View](Experiment-6/AMEY_B-50_MCC_EXPERIMENT-6A.pdf) |
 
 ---
 
