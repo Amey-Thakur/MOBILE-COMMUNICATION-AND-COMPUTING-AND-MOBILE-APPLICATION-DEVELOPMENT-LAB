@@ -64,7 +64,7 @@
 
 ## Semester Exam
  
- - MCC [Answersheet](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Semester%20Exam/AMEY_B-50_7278000_MCC.pdf)
+ - MCC [Answer Sheet](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Semester%20Exam/AMEY_B-50_7278000_MCC.pdf)
 
 
 ## Question Papers
