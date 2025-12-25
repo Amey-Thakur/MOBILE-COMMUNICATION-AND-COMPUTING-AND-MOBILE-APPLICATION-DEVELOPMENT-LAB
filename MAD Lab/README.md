@@ -152,12 +152,16 @@ Understanding the handover mechanism in mobile communication
 <!-- =========================================================================================
                                      EXPERIMENT 5
      ========================================================================================= -->
-## Experiment 5: ListView & Adapters
+## Experiment 5: WML Form Validation for WAP-enabled Phones
 
-Implement ListView with custom adapters
+Write a program using WML to display user form with validation for WAP-enabled phones
 
-| # | Document | Description |
-|:-:|:---|:---|
+**Date:** August 20, 2021
+
+| # | Program | Description | Source Code |
+|:-:|:---|:---|:-:|
+| 1 | Validation.wml | WML form for student registration | [View](Experiment-5/Validation.wml) |
+| 2 | Validate.wmls | WMLScript for form validation | [View](Experiment-5/Validate.wmls) |
 | — | Lab Report (PDF) | Detailed experiment report | [View](AMEY_B-50_MCC_EXPERIMENT-5.pdf) |
 
 ---

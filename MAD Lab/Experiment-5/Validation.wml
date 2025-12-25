@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.3//EN"
+"http://www.wapforum.org/DTD/wml13.dtd">
+<wml>
+<card id="card1" title="Registration Form">
+<p> <big>STUDENT DETAILS</big><br/>
+Notice: Fields with * are required.<br/><br/>
+<b>$(errorMsg)</b><br/>
+* First name:
+<input name="firstname"/><br/>
+* Last name:
+<input name="lastname"/><br/>
+* Password (min. 8 characters):
+<input type="password" name="password"/><br/>
+* Email:<br/>
+<input name="email"/><br/>
+Birthday (MMDDYYYY):<br/>
+<input name="birthday" format="NNNNNNNN"
+emptyok="true"/><br/>
+<br/>
+Select Your Branch:
+<select>
+<option value="comps">CS</option>
+<option value="it">IT</option>
+<option value="extc">EXTC</option>
+</select>
+<br/>
+What topics are you interested in?
+<select>
+<option value="ds">Data Structures</option>
+<option value="ai">Artificial Intelligence</option>
+<option value="ml">Machine Learning</option>
+</select>
+<br/>
+<a href="validate.wmls#validate()" href="#card_two">Submit
+Form Data</a>
+</p>
+</card>
+
+<card id="card_two" title="Thanks">
+<p> <b>THANK YOU FOR FILLING THE FORM!!</b>
+</p>
+</card>
+</wml>
