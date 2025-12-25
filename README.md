@@ -99,14 +99,14 @@ Academic assignments for comprehensive learning and practice:
 
 MCC-specific quizzes conducted during the course:
 
-| # | Quiz | Topics | Marks |
-|:-:|:---|:---|:---:|
-| 1 | [**Quiz 1**](Quizzes/Quiz%201-%20MCC%20(CSC702).pdf) | Mobile Communication Fundamentals | 10/10 |
-| 2 | [**Quiz 2**](Quizzes/Quiz%202-%20MCC%20(CSC702).pdf) | Wireless Networks and Protocols | 10/10 |
-| 3 | [**Quiz 3**](Quizzes/Quiz%203-%20MCC%20(CSC702).pdf) | GSM Architecture and Call Management | 10/10 |
-| 4 | [**Quiz 4**](Quizzes/Quiz%204-%20MCC%20(CSC702).pdf) | Mobile IP and Transport Layer | 10/10 |
-| 5 | [**Quiz 5**](Quizzes/Quiz%205-%20MCC%20(CSC702).pdf) | Mobile Ad-hoc Networks (MANET) | 10/10 |
-| 6 | [**Quiz 6**](Quizzes/Quiz%206-%20MCC%20(CSC702).pdf) | Android Application Development | 10/10 |
+| # | Quiz | Topics |
+|:-:|:---|:---|
+| 1 | [**Quiz 1**](Quizzes/Quiz%201-%20MCC%20(CSC702).pdf) | Mobile Communication Fundamentals |
+| 2 | [**Quiz 2**](Quizzes/Quiz%202-%20MCC%20(CSC702).pdf) | Wireless Networks and Protocols |
+| 3 | [**Quiz 3**](Quizzes/Quiz%203-%20MCC%20(CSC702).pdf) | GSM Architecture and Call Management |
+| 4 | [**Quiz 4**](Quizzes/Quiz%204-%20MCC%20(CSC702).pdf) | Mobile IP and Transport Layer |
+| 5 | [**Quiz 5**](Quizzes/Quiz%205-%20MCC%20(CSC702).pdf) | Mobile Ad-hoc Networks (MANET) |
+| 6 | [**Quiz 6**](Quizzes/Quiz%206-%20MCC%20(CSC702).pdf) | Android Application Development |
 
 ---
 
