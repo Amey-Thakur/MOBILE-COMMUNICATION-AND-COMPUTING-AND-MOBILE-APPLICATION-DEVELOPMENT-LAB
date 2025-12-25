@@ -33,7 +33,7 @@ Mobile Communication and Computing (CSC702) and Mobile Application Development L
 
 ### Course Topics
 
-The curriculum encompasses several key domains in Mobile Communication and Computing:
+The curriculum encompasses several key domains in Mobile Communication and Computing (MCC):
 
 - **Wireless Communication Fundamentals**: Radio propagation, modulation techniques, spread spectrum, CDMA.
 - **Mobile Computing Architecture**: Mobile device architecture, operating systems, application frameworks.
@@ -51,7 +51,7 @@ As a computer engineer, understanding mobile communication protocols and mobile 
 **Why this repository exists:**
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
-- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of mobile computing concepts.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental concepts.
 - **Academic Documentation**: To authentically document my learning journey through MCC and MAD Lab.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
