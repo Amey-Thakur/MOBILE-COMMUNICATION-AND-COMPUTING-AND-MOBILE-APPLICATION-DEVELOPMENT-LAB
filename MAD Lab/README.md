@@ -15,7 +15,7 @@
 
   ---
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-basic-ui-components)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-android-layouts)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-activity-lifecycle)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-intents--data-passing)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-listview--adapters)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-fragments)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-sqlite-database)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-shared-preferences)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-services)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-broadcast-receivers--notifications)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-understanding-of-path-loss)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-understanding-co-channel-interference-and-sinr)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-understanding-cellular-network-frequency-reuse)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-understanding-the-handover-mechanism)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-wml-form-validation-for-wap-enabled-phones)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-wml-calculator-and-calendar-for-android-phones)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-analyzing-network-packets-using-wireshark)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-ubuntu-installation-and-wireless-network-manet-using-ns2)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-android-user-form-with-validation)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-setup-and-configuration-of-wireless-access-points)**
 
 </div>
 
@@ -47,9 +47,8 @@ cd "MAD Lab/Experiment-1"
 start studio64.exe .
 ```
 
-### Virtual Lab Access
-Mobile Application Development experiments can also be accessed through:
-- **IIT Kharagpur Virtual Lab**: [http://vlabs.iitkgp.ac.in/fcmc/index.html](http://vlabs.iitkgp.ac.in/fcmc/index.html)
+> [!TIP]
+> **Virtual Lab**: Mobile Application Development experiments can also be accessed through the [IIT Kharagpur Virtual Lab](http://vlabs.iitkgp.ac.in/fcmc/index.html).
 
 ### Laboratory Reports
 Each experiment includes comprehensive PDF reports covering:
@@ -60,34 +59,7 @@ Each experiment includes comprehensive PDF reports covering:
 
 ---
 
-<!-- =========================================================================================
-                                     LEARNING PATH SECTION
-     ========================================================================================= -->
-## Learning Path
 
-### Phase 1: Android Fundamentals
-Foundation of Android UI development and basic components.
-- **Experiment 1**: Master basic UI components (TextView, Button, EditText, ImageView)
-- **Experiment 2**: Understand different layout types (LinearLayout, RelativeLayout, ConstraintLayout)
-
-### Phase 2: User Interaction & Navigation
-Managing activities, user input, and navigation flows.
-- **Experiment 3**: Learn Activity lifecycle (onCreate, onStart, onResume, onPause, onStop, onDestroy)
-- **Experiment 4**: Implement Intents for navigation and data passing between activities
-- **Experiment 5**: Create dynamic lists with ListView and custom adapters
-
-### Phase 3: Advanced UI & Data Management
-Fragments and data persistence techniques.
-- **Experiment 6**: Use Fragments for modular UI components and multi-pane layouts
-- **Experiment 7**: Implement SQLite database for structured data storage
-- **Experiment 8**: Use SharedPreferences for simple key-value data persistence
-
-### Phase 4: Background Processing & Notifications
-Services and broadcast receivers for background operations.
-- **Experiment 9**: Create Services for long-running background tasks
-- **Experiment 10**: Implement Broadcast Receivers and push notifications
-
----
 
 <!-- =========================================================================================
                                      EXPERIMENT 1
@@ -257,7 +229,7 @@ Set up and configuration of wireless Access Points using Cisco Packet Tracer
   <!-- Footer Navigation -->
   **[↑ Back to Top](#mobile-application-development-lab)**
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-basic-ui-components)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-android-layouts)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-activity-lifecycle)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-intents--data-passing)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-listview--adapters)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-fragments)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-sqlite-database)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-shared-preferences)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-services)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-broadcast-receivers--notifications)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-understanding-of-path-loss)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-understanding-co-channel-interference-and-sinr)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-understanding-cellular-network-frequency-reuse)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-understanding-the-handover-mechanism)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-wml-form-validation-for-wap-enabled-phones)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-wml-calculator-and-calendar-for-android-phones)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-analyzing-network-packets-using-wireshark)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-ubuntu-installation-and-wireless-network-manet-using-ns2)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-android-user-form-with-validation)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-setup-and-configuration-of-wireless-access-points)**
 
   <br>
 
