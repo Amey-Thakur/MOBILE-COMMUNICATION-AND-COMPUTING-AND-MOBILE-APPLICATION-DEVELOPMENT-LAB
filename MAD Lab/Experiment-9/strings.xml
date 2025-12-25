@@ -1,0 +1,22 @@
+<!--
+    Author: Amey Thakur
+    Course: Mobile Communication and Computing (MCC) & Mobile Application Development Lab (MAD Lab)
+    Semester: VII | Batch: B3 | Roll No: 50
+    Experiment: 9 - Android User Form with Validation
+    Date: October 01, 2021
+    GitHub: https://github.com/Amey-Thakur
+    Repository: https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB
+-->
+<resources>
+    <string name="app_name">Learn Android with Real Apps</string>
+    <string name="i_agree">I agree to the terms of use</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="website">Website</string>
+    <string name="age">Age</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="username_already_exists">Username already exists</string>
+</resources>
