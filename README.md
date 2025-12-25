@@ -143,34 +143,6 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 ### Program Details
 
 <details>
-<summary><b>Experiment 1: Understanding of Path Loss (No Code)</b></summary>
-
-Virtual Lab experiment - No source code files
-
-</details>
-
-<details>
-<summary><b>Experiment 2: Understanding Co-channel Interference and SINR (No Code)</b></summary>
-
-Virtual Lab experiment - No source code files
-
-</details>
-
-<details>
-<summary><b>Experiment 3: Understanding Cellular Network Frequency Reuse (No Code)</b></summary>
-
-Virtual Lab experiment - No source code files
-
-</details>
-
-<details>
-<summary><b>Experiment 4: Understanding the Handover Mechanism (No Code)</b></summary>
-
-Virtual Lab experiment - No source code files
-
-</details>
-
-<details>
 <summary><b>Experiment 5: WML Form Validation (2 Programs)</b></summary>
 
 | Program | Category | Description | Code |
@@ -192,13 +164,6 @@ Virtual Lab experiment - No source code files
 </details>
 
 <details>
-<summary><b>Experiment 7: Analyzing Network Packets using Wireshark (No Code)</b></summary>
-
-Wireshark installation and packet analysis - No source code files
-
-</details>
-
-<details>
 <summary><b>Experiment 8: Ubuntu and MANET using NS2 (1 Program)</b></summary>
 
 | Program | Category | Description | Code |
@@ -215,13 +180,6 @@ Wireshark installation and packet analysis - No source code files
 | <kbd>strings.xml</kbd> | Android Resource | Android resource strings | [View](MAD%20Lab/Experiment-9/strings.xml) |
 | <kbd>activity_main.xml</kbd> | Android Layout | Registration form layout | [View](MAD%20Lab/Experiment-9/activity_main.xml) |
 | <kbd>MainActivity.java</kbd> | Android Activity | Form validation logic | [View](MAD%20Lab/Experiment-9/MainActivity.java) |
-
-</details>
-
-<details>
-<summary><b>Experiment 10: Wireless Access Points Configuration (No Code)</b></summary>
-
-Cisco Packet Tracer setup and configuration - No source code files
 
 </details>
 
