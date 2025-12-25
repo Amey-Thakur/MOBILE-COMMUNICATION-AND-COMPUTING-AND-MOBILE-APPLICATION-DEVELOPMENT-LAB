@@ -70,7 +70,7 @@ This collection includes **comprehensive reference materials** covering all majo
 
 | # | Resource | Focus Area |
 |:-:|:---|:---|
-| 1 | [MCC Topper Solution](Reference%20Books/MCC-TopperSolution.pdf) | Solved exams and top-scoring answers |
+| 1 | [MCC Toppers Solution](Reference%20Books/MCC-TopperSolution.pdf) | Solved exams and top-scoring answers |
 | 2 | [MCC Module 1](Reference%20Books/mcc_1__.pdf) | Wireless Communication and Modulation |
 | 3 | [MCC Module 2](Reference%20Books/mcc_2.pdf) | Mobile Computing Architecture |
 | 4 | [MCC Module 3](Reference%20Books/mcc_3.pdf) | GSM and Cellular Networks |
