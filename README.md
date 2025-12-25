@@ -1,85 +1,305 @@
-# MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB
+<!-- =========================================================================================
+                                     HEADER SECTION
+     ========================================================================================= -->
+<div align="center">
 
- 👍🏻 CSC702: MCC & CSL702: MAD LAB [SEMESTER VII]
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
+
+  # Mobile Communication and Computing and Mobile Application Development Lab
+
+  ### CSC702 & CSL702 · Semester VII · Computer Engineering
+
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+
+  **A comprehensive academic resource for Mobile Communication and Computing (MCC) and Mobile Application Development Laboratory (MAD Lab), covering wireless networks, mobile communication protocols, Android application development, and mobile computing architectures.**
+
+  ---
+
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#mobile-application-development-laboratory) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Exit Survey](#exit-survey) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
+</div>
 
 ---
- 
- - [X] **[Syllabus](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**
- 
- - [X] **MCC - [Reference Books](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/tree/main/Reference%20Books)**
+
+<!-- =========================================================================================
+                                     OVERVIEW SECTION
+     ========================================================================================= -->
+## Overview
+
+Mobile Communication and Computing (CSC702) and Mobile Application Development Lab (CSL702) are core subjects in the Final Year (Semester VII) of the Computer Engineering curriculum at the University of Mumbai. These courses provide comprehensive knowledge of wireless communication systems, mobile networks, and hands-on Android application development.
+
+### Course Topics
+
+The curriculum encompasses several key domains in Mobile Communication and Computing:
+
+- **Wireless Communication Fundamentals**: Radio propagation, modulation techniques, spread spectrum, CDMA.
+- **Mobile Computing Architecture**: Mobile device architecture, operating systems, application frameworks.
+- **Cellular Networks**: GSM architecture, call management, handoffs, location management.
+- **Mobile IP and Protocols**: Mobile IP operation, routing, transport layer protocols (TCP, UDP).
+- **Android Application Development**: Activities, intents, fragments, services, broadcast receivers, content providers.
+- **Mobile Ad-hoc Networks (MANET)**: Routing protocols, QoS, security in mobile networks.
+
+### Repository Purpose
+
+This repository represents a curated collection of study materials, reference books, lab experiments, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
+
+As a computer engineer, understanding mobile communication protocols and mobile app development is crucial for building modern connected systems. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
+
+**Why this repository exists:**
+
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of mobile computing concepts.
+- **Academic Documentation**: To authentically document my learning journey through MCC and MAD Lab.
+- **Community Contribution**: To share these resources with students and learners who may benefit from them.
+
+All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
 
 ---
 
-## Assignments
- 
- - MCC [Assignment - 1](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Assignments/AMEY_B-50_MCC_ASSIGNMENT-1.pdf)
+<!-- =========================================================================================
+                                     CONTENTS SECTION
+     ========================================================================================= -->
+## Repository Contents
 
+### Reference Books
 
-## Experiments
- 
- >Mobile Application Development Lab | [Virtual Lab](http://vlabs.iitkgp.ac.in/fcmc/index.html)
+This collection includes **comprehensive reference materials** covering all major topics:
 
- - MAD Lab [Experiment - 1](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/AMEY_B-50_MCC_EXPERIMENT-1.pdf)
- 
- - MAD Lab [Experiment - 2](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/AMEY_B-50_MCC_EXPERIMENT-2.pdf)
- 
- - MAD Lab [Experiment - 3](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/AMEY_B-50_MCC_EXPERIMENT-3.pdf)
- 
- - MAD Lab [Experiment - 4](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/AMEY_B-50_MCC_EXPERIMENT-4.pdf)
- 
- - MAD Lab [Experiment - 5](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/AMEY_B-50_MCC_EXPERIMENT-5.pdf)
- 
- - MAD Lab [Experiment - 6](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/AMEY_B-50_MCC_EXPERIMENT-6.pdf)
- 
- - MAD Lab [Experiment - 7](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/AMEY_B-50_MCC_EXPERIMENT-7.pdf)
- 
- - MAD Lab [Experiment - 8](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/AMEY_B-50_MCC_EXPERIMENT-8.pdf)
- 
- - MAD Lab [Experiment - 9](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/AMEY_B-50_MCC_EXPERIMENT-9.pdf)
- 
- - MAD Lab [Experiment - 10](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Experiments/AMEY_B-50_MCC_EXPERIMENT-10.pdf)
+| # | Resource | Focus Area |
+|:-:|:---|:---|
+| 1 | [MCC Topper Solution](Reference%20Books/MCC-TopperSolution.pdf) | Solved exams and top-scoring answers |
+| 2 | [MCC Module 1](Reference%20Books/mcc_1__.pdf) | Wireless Communication and Modulation |
+| 3 | [MCC Module 2](Reference%20Books/mcc_2.pdf) | Mobile Computing Architecture |
+| 4 | [MCC Module 3](Reference%20Books/mcc_3.pdf) | GSM and Cellular Networks |
+| 5 | [MCC Module 4](Reference%20Books/mcc_4.pdf) | Mobile IP and Transport Protocols |
+| 6 | [MCC Module 5](Reference%20Books/mcc_5.pdf) | Mobile Ad-hoc Networks (MANET) |
+| 7 | [MCC Module 6](Reference%20Books/mcc_6.pdf) | Android Application Development |
+| 8 | [MCC Index](Reference%20Books/mcc%20index.pdf) | Index of topics and notes |
+| 9 | [MCC VIVA](Reference%20Books/MCC%20VIVA.docx) | Viva preparation questions |
 
+---
 
-## Quizzes
- 
- - MCC [Quiz - 1](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Quizzes/Quiz%201-%20MCC%20(CSC702).pdf)
- 
- - MCC [Quiz - 2](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Quizzes/Quiz%202-%20MCC%20(CSC702).pdf)
- 
- - MCC [Quiz - 3](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Quizzes/Quiz%203-%20MCC%20(CSC702).pdf)
- 
- - MCC [Quiz - 4](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Quizzes/Quiz%204-%20MCC%20(CSC702).pdf)
- 
- - MCC [Quiz - 5](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Quizzes/Quiz%205-%20MCC%20(CSC702).pdf)
- 
- - MCC [Quiz - 6](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Quizzes/Quiz%206-%20MCC%20(CSC702).pdf)
+### Assignments
 
+Academic assignments for comprehensive learning and practice:
 
+| # | Assignment | Description |
+|:-:|:---|:---|
+| 1 | [**Assignment 1**](Assignments/AMEY_B-50_MCC_ASSIGNMENT-1.pdf) | Mobile Communication Fundamentals and Network Architecture |
+
+**Topics Covered**: Wireless Communication · Mobile Computing Architecture · GSM Networks · Mobile IP · Android Development
+
+---
+
+### Quizzes
+
+MCC-specific quizzes conducted during the course:
+
+| # | Quiz | Topics | Marks |
+|:-:|:---|:---|:---:|
+| 1 | [**Quiz 1**](Quizzes/Quiz%201-%20MCC%20(CSC702).pdf) | Mobile Communication Fundamentals | 10/10 |
+| 2 | [**Quiz 2**](Quizzes/Quiz%202-%20MCC%20(CSC702).pdf) | Wireless Networks and Protocols | 10/10 |
+| 3 | [**Quiz 3**](Quizzes/Quiz%203-%20MCC%20(CSC702).pdf) | GSM Architecture and Call Management | 10/10 |
+| 4 | [**Quiz 4**](Quizzes/Quiz%204-%20MCC%20(CSC702).pdf) | Mobile IP and Transport Layer | 10/10 |
+| 5 | [**Quiz 5**](Quizzes/Quiz%205-%20MCC%20(CSC702).pdf) | Mobile Ad-hoc Networks (MANET) | 10/10 |
+| 6 | [**Quiz 6**](Quizzes/Quiz%206-%20MCC%20(CSC702).pdf) | Android Application Development | 10/10 |
+
+---
+
+<!-- =========================================================================================
+                                     LABORATORY SECTION
+     ========================================================================================= -->
+## Mobile Application Development Laboratory
+
+The laboratory component (CSL702) focuses on hands-on Android application development, covering UI design, activities, intents, data storage, services, and mobile application architecture.
+
+<div align="center">
+
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](MAD%20Lab/)
+  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](MAD%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-Java%20%7C%20XML-blueviolet.svg)](MAD%20Lab/)
+
+</div>
+
+> **Virtual Lab**: Mobile Application Development experiments can also be accessed through the [IIT Kharagpur Virtual Lab](http://vlabs.iitkgp.ac.in/fcmc/index.html).
+
+| # | Experiment | Report |
+|:-:|:---|:-:|
+| 1 | Create a simple Android application using basic UI components | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-1.pdf) |
+| 2 | Implement different types of layouts in Android | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-2.pdf) |
+| 3 | Develop an application demonstrating Activity lifecycle | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-3.pdf) |
+| 4 | Create an application using Intents and passing data | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-4.pdf) |
+| 5 | Implement ListView with custom adapters | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-5.pdf) |
+| 6 | Develop an application using Fragments | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-6.pdf) |
+| 7 | Create a database application using SQLite | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-7.pdf) |
+| 8 | Implement data persistence using Shared Preferences | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-8.pdf) |
+| 9 | Develop an application demonstrating Services | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-9.pdf) |
+| 10 | Create an application using Broadcast Receivers and Notifications | [View](MAD%20Lab/AMEY_B-50_MCC_EXPERIMENT-10.pdf) |
+
+### Laboratory Documentation
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Lab README](MAD%20Lab/README.md) | Detailed navigation guide with experiment descriptions |
+
+---
+
+<!-- =========================================================================================
+                                     IAT SECTION
+     ========================================================================================= -->
 ## Internal Assessment Test
- 
- - MCC [IAT - 1](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Internal%20Assessment%20Test/AMEY_B-50_MCC_IAT-1.pdf)
- 
- - MCC [IAT - 2](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Internal%20Assessment%20Test/AMEY_B-50_MCC_IAT-2.pdf)
 
+Internal assessment evaluations conducted during the course:
 
-## Semester Exam
- 
- - MCC [Answer Sheet](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Semester%20Exam/AMEY_B-50_7278000_MCC.pdf)
+### IAT - 1
 
+| # | Resource | Description | Marks |
+|:-:|:---|:---|:---:|
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_MCC_IAT-1.pdf) | MCC Internal Assessment Test 1 Answer Sheet | — |
 
-## Question Papers
- 
- - [Previous Question Papers](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/tree/main/Question%20Papers)
+### IAT - 2
 
-
-## Exit Survey
- 
- - MCC [Course Exit Survey](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Exit%20survey/MCC%20Course%20Exit%20Survey.pdf)
- 
- - MAD Lab [Exit Survey](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB/blob/main/Exit%20survey/MCC%20Laboratory%20Exit%20Survey.pdf)
+| # | Resource | Description | Marks |
+|:-:|:---|:---|:---:|
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_MCC_IAT-2.pdf) | MCC Internal Assessment Test 2 Answer Sheet | — |
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 7th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
- 
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<!-- =========================================================================================
+                                     SEMESTER EXAM SECTION
+     ========================================================================================= -->
+## Semester Exam
+
+> [!IMPORTANT]
+> **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic. All examinations and assessments were conducted in a digital format.
+
+Final semester examination submission:
+
+| # | Resource | Description | Date |
+|:-:|:---|:---|:---:|
+| 1 | [Answer Sheet](Semester%20Exam/AMEY_B-50_7278000_MCC.pdf) | MCC Semester Exam Answer Sheet | November 22, 2021 |
+
+---
+
+<!-- =========================================================================================
+                                     QUESTION PAPERS SECTION
+     ========================================================================================= -->
+## Question Papers
+
+Previous year university question papers for Mobile Communication and Computing:
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Question Papers Collection](Question%20Papers/) | Previous year MCC exam question papers |
+
+---
+
+<!-- =========================================================================================
+                                     EXIT SURVEY SECTION
+     ========================================================================================= -->
+## Exit Survey
+
+Course and laboratory feedback surveys:
+
+| # | Survey | Description |
+|:-:|:---|:---|
+| 1 | [Course Exit Survey](Exit%20survey/MCC%20Course%20Exit%20Survey.pdf) | MCC course feedback and evaluation |
+| 2 | [Laboratory Exit Survey](Exit%20survey/MCC%20Laboratory%20Exit%20Survey.pdf) | MAD Lab feedback and evaluation |
+
+---
+
+<!-- =========================================================================================
+                                     SYLLABUS SECTION
+     ========================================================================================= -->
+## Syllabus
+
+> **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
+> Complete Final Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for MCC and MAD Lab.
+
+> [!IMPORTANT]
+> Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
+
+---
+
+<!-- =========================================================================================
+                                     USAGE GUIDELINES
+     ========================================================================================= -->
+## Usage Guidelines
+
+This repository is openly shared to support learning and knowledge exchange across the academic community.
+
+**For Students**  
+Use these resources as reference materials for understanding mobile communication protocols, wireless networks, and Android application development. All content is organized for self-paced learning.
+
+**For Educators**  
+These materials may serve as curriculum references, lab examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and organization may provide insights into academic resource curation and educational content structuring for mobile computing courses.
+
+---
+
+<!-- =========================================================================================
+                                     LICENSE SECTION
+     ========================================================================================= -->
+## License
+
+This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
+
+> [!NOTE]
+> **Summary:** You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+
+---
+
+<!-- =========================================================================================
+                                     ABOUT SECTION
+     ========================================================================================= -->
+## About This Repository
+
+**Created & Maintained by:** [Amey Thakur](https://github.com/Amey-Thakur)  
+**Academic Journey:** Bachelor of Engineering in Computer Engineering (2018-2022)  
+**Institution:** [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
+**University:** [University of Mumbai](https://mu.ac.in/)
+
+This repository represents a comprehensive collection of study materials, reference books, assignments, quizzes, and lab reports curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Mobile Communication and Computing and Mobile Application Development Lab.
+
+**Connect:** [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+
+### Acknowledgments
+
+Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Mobile Communication and Computing. Their clear teaching and continued support helped develop a strong understanding of wireless communication systems and mobile application development.
+
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience in mobile computing and Android development.
+
+---
+
+<!-- =========================================================================================
+                                     FOOTER SECTION
+     ========================================================================================= -->
+<div align="center">
+
+  <!-- Footer Navigation -->
+  **[↑ Back to Top](#mobile-communication-and-computing-and-mobile-application-development-lab)**
+
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Laboratory](#mobile-application-development-laboratory)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Exit Survey](#exit-survey)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)
+
+  <br>
+
+  **[MAD Lab](MAD%20Lab/README.md)**
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+  **Computer Engineering (B.E.) - University of Mumbai**
+
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+
+</div>
