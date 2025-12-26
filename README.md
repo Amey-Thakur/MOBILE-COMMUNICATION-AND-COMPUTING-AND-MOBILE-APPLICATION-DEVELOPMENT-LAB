@@ -5,7 +5,7 @@
 
   <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
 
-  # Mobile Communication and Computing and Mobile Application Development Lab
+  # Mobile Communication and Computing and Mobile Application Development Laboratory
 
   ### CSC702 & CSL702 · Semester VII · Computer Engineering
 
@@ -29,7 +29,7 @@
      ========================================================================================= -->
 ## Overview
 
-Mobile Communication and Computing (CSC702) and Mobile Application Development Lab (CSL702) are core subjects in the Final Year (Semester VII) of the Computer Engineering curriculum at the University of Mumbai. These courses provide comprehensive knowledge of wireless communication systems, mobile networks, and hands-on Android application development.
+Mobile Communication and Computing (CSC702) and Mobile Application Development Laboratory (CSL702) are core subjects in the Final Year (Semester VII) of the Computer Engineering curriculum at the University of Mumbai. These courses provide comprehensive knowledge of wireless communication systems, mobile networks, and hands-on Android application development.
 
 ### Course Topics
 
@@ -267,7 +267,7 @@ Course completion documentation with exit survey:
 | # | Document | Description |
 |:-:|:---|:---|
 | 1 | [Exit Survey (Theory)](Exit%20survey/MCC%20Course%20Exit%20Survey.pdf) | Course outcome survey for MCC Theory |
-| 2 | [Exit Survey (Lab)](Exit%20survey/MCC%20Laboratory%20Exit%20Survey.pdf) | Course outcome survey for MAD Lab |
+| 2 | [Exit Survey (Lab)](Exit%20survey/MCC%20Laboratory%20Exit%20Survey.pdf) | Course outcome survey for Mobile Application Development Laboratory |
 
 ---
 
@@ -342,13 +342,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#mobile-communication-and-computing-and-mobile-application-development-lab)**
+  **[↑ Back to Top](#mobile-communication-and-computing-and-mobile-application-development-laboratory)**
 
   **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Laboratory](#mobile-application-development-laboratory)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
   <br>
 
-  **[MAD Lab](MAD%20Lab/README.md)**
+  **[Mobile Application Development Laboratory](MAD%20Lab/README.md)**
 
 </div>
 
