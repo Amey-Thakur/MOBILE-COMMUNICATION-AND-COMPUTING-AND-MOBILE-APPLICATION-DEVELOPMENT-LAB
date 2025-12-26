@@ -16,7 +16,7 @@
 
   ---
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-understanding-of-path-loss)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-understanding-co-channel-interference-and-sinr)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-understanding-cellular-network-frequency-reuse)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-understanding-the-handover-mechanism)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-wml-form-validation-for-wap-enabled-phones)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-wml-calculator-and-calendar-for-android-phones)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-analyzing-network-packets-using-wireshark)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-ubuntu-installation-and-wireless-network-manet-using-ns2)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-android-user-form-with-validation)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-setup-and-configuration-of-wireless-access-points)**
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-understanding-of-path-loss) &nbsp;·&nbsp; [Experiment 2](#experiment-2-understanding-co-channel-interference-and-sinr) &nbsp;·&nbsp; [Experiment 3](#experiment-3-understanding-cellular-network-frequency-reuse) &nbsp;·&nbsp; [Experiment 4](#experiment-4-understanding-the-handover-mechanism) &nbsp;·&nbsp; [Experiment 5](#experiment-5-wml-form-validation-for-wap-enabled-phones) &nbsp;·&nbsp; [Experiment 6](#experiment-6-wml-calculator-and-calendar-for-android-phones) &nbsp;·&nbsp; [Experiment 7](#experiment-7-analyzing-network-packets-using-wireshark) &nbsp;·&nbsp; [Experiment 8](#experiment-8-ubuntu-installation-and-wireless-network-manet-using-ns2) &nbsp;·&nbsp; [Experiment 9](#experiment-9-android-user-form-with-validation) &nbsp;·&nbsp; [Experiment 10](#experiment-10-setup-and-configuration-of-wireless-access-points)
 
 </div>
 
@@ -49,7 +49,7 @@ start studio64.exe .
 ```
 
 > [!TIP]
-> **Virtual Lab**: Mobile Application Development experiments can also be accessed through the [IIT Kharagpur Virtual Lab](http://vlabs.iitkgp.ac.in/fcmc/index.html).
+> **Virtual Lab**: Mobile Application Development experiments can also be accessed through the [**IIT Kharagpur Virtual Lab**](http://vlabs.iitkgp.ac.in/fcmc/index.html).
 
 ### Laboratory Reports
 Each experiment includes comprehensive PDF reports covering:
@@ -266,13 +266,13 @@ Set up and configuration of wireless Access Points using Cisco Packet Tracer
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#mobile-application-development-lab)**
+  [↑ Back to Top](#mobile-application-development-lab)
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-understanding-of-path-loss)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-understanding-co-channel-interference-and-sinr)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-understanding-cellular-network-frequency-reuse)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-understanding-the-handover-mechanism)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-wml-form-validation-for-wap-enabled-phones)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-wml-calculator-and-calendar-for-android-phones)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-analyzing-network-packets-using-wireshark)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-ubuntu-installation-and-wireless-network-manet-using-ns2)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-android-user-form-with-validation)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-setup-and-configuration-of-wireless-access-points)**
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-understanding-of-path-loss) &nbsp;·&nbsp; [Experiment 2](#experiment-2-understanding-co-channel-interference-and-sinr) &nbsp;·&nbsp; [Experiment 3](#experiment-3-understanding-cellular-network-frequency-reuse) &nbsp;·&nbsp; [Experiment 4](#experiment-4-understanding-the-handover-mechanism) &nbsp;·&nbsp; [Experiment 5](#experiment-5-wml-form-validation-for-wap-enabled-phones) &nbsp;·&nbsp; [Experiment 6](#experiment-6-wml-calculator-and-calendar-for-android-phones) &nbsp;·&nbsp; [Experiment 7](#experiment-7-analyzing-network-packets-using-wireshark) &nbsp;·&nbsp; [Experiment 8](#experiment-8-ubuntu-installation-and-wireless-network-manet-using-ns2) &nbsp;·&nbsp; [Experiment 9](#experiment-9-android-user-form-with-validation) &nbsp;·&nbsp; [Experiment 10](#experiment-10-setup-and-configuration-of-wireless-access-points)
 
   <br>
 
-  **[🏠 Back to Main Repository](../)**
+  🏠 **[Back to Main Repository](../)**
 
 </div>
 
@@ -280,7 +280,7 @@ Set up and configuration of wireless Access Points using Cisco Packet Tracer
 
 <div align="center">
 
-  ### [Mobile Communication and Computing and Mobile Application Development Lab](https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB)
+  ### [Mobile Communication and Computing and Mobile Application Development Lab](../)
 
   **CSL702 · Semester VII · Computer Engineering**
 
