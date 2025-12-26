@@ -18,7 +18,7 @@
 
   ---
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#mobile-application-development-laboratory) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#mobile-application-development-laboratory) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -89,7 +89,7 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date |
 |:-:|:---|:---|:---:|
-| 1 | [**Assignment 1**](Assignments/AMEY_B-50_MCC_ASSIGNMENT-1.pdf) | Electromagnetic Spectrum, Mobile IP Tunneling, WCDMA vs CDMA2000 | October 22, 2021 |
+| 1 | [Assignment 1](Assignments/AMEY_B-50_MCC_ASSIGNMENT-1.pdf) | Electromagnetic Spectrum, Mobile IP Tunneling, WCDMA vs CDMA2000 | October 22, 2021 |
 
 **Topics Covered**: Electromagnetic Spectrum for Communication · Mobile IP Packet Forwarding and Tunneling · Encapsulation Techniques for Mobile IP · WCDMA and CDMA2000 Comparison
 
@@ -101,12 +101,12 @@ MCC-specific quizzes conducted during the course:
 
 | # | Quiz | Topics |
 |:-:|:---|:---|
-| 1 | [**Quiz 1**](Quizzes/Quiz%201-%20MCC%20(CSC702).pdf) | Mobile Communication Fundamentals |
-| 2 | [**Quiz 2**](Quizzes/Quiz%202-%20MCC%20(CSC702).pdf) | Wireless Networks and Protocols |
-| 3 | [**Quiz 3**](Quizzes/Quiz%203-%20MCC%20(CSC702).pdf) | GSM Architecture and Call Management |
-| 4 | [**Quiz 4**](Quizzes/Quiz%204-%20MCC%20(CSC702).pdf) | Mobile IP and Transport Layer |
-| 5 | [**Quiz 5**](Quizzes/Quiz%205-%20MCC%20(CSC702).pdf) | Mobile Ad-hoc Networks (MANET) |
-| 6 | [**Quiz 6**](Quizzes/Quiz%206-%20MCC%20(CSC702).pdf) | Android Application Development |
+| 1 | [Quiz 1](Quizzes/Quiz%201-%20MCC%20(CSC702).pdf) | Mobile Communication Fundamentals |
+| 2 | [Quiz 2](Quizzes/Quiz%202-%20MCC%20(CSC702).pdf) | Wireless Networks and Protocols |
+| 3 | [Quiz 3](Quizzes/Quiz%203-%20MCC%20(CSC702).pdf) | GSM Architecture and Call Management |
+| 4 | [Quiz 4](Quizzes/Quiz%204-%20MCC%20(CSC702).pdf) | Mobile IP and Transport Layer |
+| 5 | [Quiz 5](Quizzes/Quiz%205-%20MCC%20(CSC702).pdf) | Mobile Ad-hoc Networks (MANET) |
+| 6 | [Quiz 6](Quizzes/Quiz%206-%20MCC%20(CSC702).pdf) | Android Application Development |
 
 ---
 
@@ -324,7 +324,7 @@ This repository and all linked academic content are made available under the **C
 **Institution:** [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University:** [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Mobile Communication and Computing & Mobile Application Development Laboratory.
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Mobile Communication and Computing and Mobile Application Development Laboratory.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
@@ -342,13 +342,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#mobile-communication-and-computing-and-mobile-application-development-laboratory)**
+  [↑ Back to Top](#mobile-communication-and-computing-and-mobile-application-development-laboratory)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Laboratory](#mobile-application-development-laboratory)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#mobile-application-development-laboratory) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
-  **[Mobile Application Development Laboratory](MAD%20Lab/README.md)**
+  🔬 **[Mobile Application Development Laboratory](MAD%20Lab/README.md)**
 
 </div>
 
