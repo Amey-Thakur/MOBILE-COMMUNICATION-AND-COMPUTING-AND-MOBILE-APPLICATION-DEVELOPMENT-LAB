@@ -287,4 +287,3 @@ Set up and configuration of wireless Access Points using Cisco Packet Tracer
   *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
 </div>
-
