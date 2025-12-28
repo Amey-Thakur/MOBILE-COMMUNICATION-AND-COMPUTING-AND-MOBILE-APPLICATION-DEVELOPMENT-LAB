@@ -1,0 +1,65 @@
+# ALL REPOSITORIES
+# ----------------
+# General
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+*.tmp
+*.bak
+*~
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+# Java
+*.class
+# We are NOT ignoring .jar or .jnlp as they seem to be source-like lab artifacts here.
+# But we ignore common build outputs.
+build/
+dist/
+bin/
+
+# Web Artifacts
+node_modules/
+.env
+
+# Mobile (WAP/WML)
+# No specific ignores known for WML, but we'll stick to general rules.
+
+# Office Temporary Files
+~$*.doc
+~$*.docx
+~$*.ppt
+~$*.pptx
+~$*.xls
+~$*.xlsx
+
+# LaTeX (if used)
+*.aux
+*.bbl
+*.blg
+*.idx
+*.ind
+*.lof
+*.lot
+*.out
+*.toc
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Git
+*.orig
