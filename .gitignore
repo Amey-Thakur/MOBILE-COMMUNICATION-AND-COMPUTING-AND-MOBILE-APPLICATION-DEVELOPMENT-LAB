@@ -1,40 +1,31 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Mobile Communication and Computing - Academic Repository
+# Specialized .gitignore for mobile development and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
 *.code-workspace
 
-# JetBrains
-.idea/
-*.iml
-
-# Java
+# Java Build Artifacts
 *.class
-# We are NOT ignoring .jar or .jnlp as they seem to be source-like lab artifacts here.
-# But we ignore common build outputs.
+# .jar and .jnlp are often kept as lab artifacts in this repository
 build/
 dist/
 bin/
 
 # Web Artifacts
 node_modules/
-.env
-
-# Mobile (WAP/WML)
-# No specific ignores known for WML, but we'll stick to general rules.
 
 # Office Temporary Files
 ~$*.doc
@@ -44,7 +35,7 @@ node_modules/
 ~$*.xls
 ~$*.xlsx
 
-# LaTeX (if used)
+# LaTeX / Document Artifacts
 *.aux
 *.bbl
 *.blg
@@ -54,6 +45,8 @@ node_modules/
 *.lot
 *.out
 *.toc
+*.log
+*.synctex.gz
 
 # Archives
 *.zip
@@ -61,5 +54,14 @@ node_modules/
 *.rar
 *.7z
 
-# Git
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+.env
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
