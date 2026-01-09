@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+================================================================================
+    EXPERIMENT 6B: FREQUENCY REUSE (CELL CLUSTERS)
+================================================================================
+    
+    Experiment:     Experiment 6B - Frequency Reuse B
+    Date:           July 19, 2021
+    Author:         Amey Thakur
+    Repository:     https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB
+    
+================================================================================
+-->
+<jnlp href="Frequency_Reuse_B.jnlp" spec="1.0+">
+    <information>
+        <title>Experiment 6B: Frequency Reuse (Cell Clusters)</title>
+        <vendor>IIT Kharagpur Virtual Lab</vendor>
+        <homepage href="http://vlabs.iitkgp.ac.in/fcmc/"/>
+        <description>Simulation of Frequency Reuse Cell Clusters</description>
+        <description kind="short">Exp6B: Frequency Reuse</description>
+        <offline-allowed/>
+    </information>
+    
+    <update check="always"/>
+    
+    <security>
+        <all-permissions/>
+    </security>
+    
+    <resources>
+        <j2se java-vm-args="-Djava.security.policy=applet.policy" version="1.5+"/>
+        <jar href="Frequency_Reuse.jar" main="true"/>
+        
+        <!-- Library Dependencies -->
+        <jar href="lib/iText-2.1.5.jar"/>
+        <jar href="lib/jcommon-1.0.16.jar"/>
+        <jar href="lib/jfreechart-1.0.13.jar"/>
+    </resources>
+    
+    <applet-desc height="610" main-class="exp6.exp6B" name="Exp6B" width="1210">
+    </applet-desc>
+</jnlp>
