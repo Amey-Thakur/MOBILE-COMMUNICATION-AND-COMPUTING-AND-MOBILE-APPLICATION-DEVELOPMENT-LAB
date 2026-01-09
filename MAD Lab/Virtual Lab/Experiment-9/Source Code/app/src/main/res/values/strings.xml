@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Learn Android with Real Apps</string>
+    <string name="i_agree">I agree to the terms of use</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="website">Website</string>
+    <string name="age">Age</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="username_already_exists">Username already exists</string>
+</resources>
