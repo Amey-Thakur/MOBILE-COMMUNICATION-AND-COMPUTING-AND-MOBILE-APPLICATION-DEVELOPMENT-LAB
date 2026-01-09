@@ -1,0 +1,61 @@
+/*
+ * ============================================================================
+ * WMLSCRIPT VALIDATION
+ * Experiment 5: WAP Form Validation
+ * ============================================================================
+ */
+
+extern function validate()
+{
+    var form_firstname = String.trim(WMLBrowser.getVar("firstname"));
+    var form_lastname = String.trim(WMLBrowser.getVar("lastname"));
+    var form_password = String.trim(WMLBrowser.getVar("password"));
+    var form_email = String.trim(WMLBrowser.getVar("email"));
+    var form_name = String.trim(WMLBrowser.getVar("name")); // Note: 'name' var not clearly defined in WML, possibly intended as concatenation or typo in student code
+    var form_birthday = String.trim(WMLBrowser.getVar("birthday"));
+
+    if ("" == form_firstname) {
+        WMLBrowser.setVar("errorMsg", "The First Name field must not be empty.");
+        WMLBrowser.refresh();
+        return;
+    }
+
+    if ("" == form_lastname) {
+        WMLBrowser.setVar("errorMsg", "The Last Name field must not be empty.");
+        WMLBrowser.refresh();
+        return;
+    }
+    
+    if ("" == form_password) {
+        WMLBrowser.setVar("errorMsg", "The Password field must not be empty.");
+        WMLBrowser.refresh();
+        return;
+    }
+    
+    if ("" == form_email) {
+        WMLBrowser.setVar("errorMsg", "The Email field must not be empty.");
+        WMLBrowser.refresh();
+        return;
+    }
+
+    if (String.length(form_password) < 8) {
+        WMLBrowser.setVar("errorMsg", "The password must contain at least 8 characters since a short password is less secure.");
+        WMLBrowser.refresh();
+        return;
+    }
+
+    else {
+        WMLBrowser.setVar("errorMsg", "THANK YOU FOR FILLING THE FORM");
+        WMLBrowser.refresh();
+        
+        // Navigation to success card (implied by report screenshots showing success message? Or sticking to single card?)
+        // The WML has a 'card_two', we should probably go there.
+        // But the script in image sets errorMsg to 'THANK YOU...'.
+        // We will stick to the script.
+        
+        WMLBrowser.go("#card_two");
+    }
+    
+    // Function call from student code image - logic unclear as function definition is missing
+    // submit_form(form_firstname, form_lastname, form_password, form_email, form_name, form_birthday);
+}
