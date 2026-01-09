@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+================================================================================
+    EXPERIMENT 1: UNDERSTANDING OF PATH LOSS
+    Java Web Start (JNLP) Configuration File
+================================================================================
+
+    Title:          Understanding of Path Loss
+    Experiment:     Experiment 1 - Path Loss Calculation and Analysis
+    Date:           August 6, 2021
+    
+    Author:         Amey Thakur
+    GitHub:         https://github.com/Amey-Thakur
+    ORCID:          https://orcid.org/0000-0001-5644-1575
+    Repository:     https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB
+    
+    Institution:    Terna Engineering College, Navi Mumbai
+    University:     University of Mumbai
+    Course:         Mobile Communication and Computing (CSC702)
+    
+    Source:         IIT Kharagpur Virtual Lab - Fading Channels and Mobile Communication
+    
+    This JNLP file configures the Java Web Start deployment for the Path Loss
+    experiment applet. It specifies required JAR files, security permissions,
+    and runtime parameters for the simulation.
+
+================================================================================
+-->
+
+<jnlp href="Path_Loss.jnlp" spec="1.0+">
+    
+    <!-- Application Information -->
+    <information>
+        <title>Experiment 1: Understanding of Path Loss - Virtual Labs IIT Kharagpur</title>
+        <vendor>Virtual Labs - Fading Channels and Mobile Communication, IIT Kharagpur</vendor>
+        <homepage href="http://vlabs.iitkgp.ac.in/fcmc/index.html"/>
+        <description>
+            Path Loss Experiment: Understanding signal attenuation in wireless communication.
+            This experiment demonstrates the calculation of received power, path loss exponent,
+            carrier frequency effects, and antenna height optimization.
+        </description>
+        <description kind="short">Path Loss Simulation - Wireless Communication</description>
+    </information>
+    
+    <!-- Update Configuration -->
+    <update check="always"/>
+    
+    <!-- Security Permissions -->
+    <security>
+        <all-permissions/>
+    </security>
+    
+    <!-- Required Resources and Dependencies -->
+    <resources>
+        <!-- Java Runtime Configuration -->
+        <j2se java-vm-args="-Djava.security.policy=applet.policy" version="1.5+"/>
+        
+        <!-- Main Application JAR -->
+        <jar href="Path_Loss.jar" main="true"/>
+        
+        <!-- Library Dependencies -->
+        <jar href="lib/jcommon-1.0.16.jar"/>      <!-- JFreeChart Common Utilities -->
+        <jar href="lib/iText-2.1.5.jar"/>          <!-- PDF Generation Library -->
+        <jar href="lib/jfreechart-1.0.13.jar"/>    <!-- Chart Plotting Library -->
+    </resources>
+    
+    <!-- Applet Configuration -->
+    <applet-desc 
+        height="670" 
+        main-class="exppl.ExpPL" 
+        name="Path Loss Experiment" 
+        width="890">
+        <!-- Applet renders Path Loss simulation with interactive parameters -->
+    </applet-desc>
+    
+</jnlp>
