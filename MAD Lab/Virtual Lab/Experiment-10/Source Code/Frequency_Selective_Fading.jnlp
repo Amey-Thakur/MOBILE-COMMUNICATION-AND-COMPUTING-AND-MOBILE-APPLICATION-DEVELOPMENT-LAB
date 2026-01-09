@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+================================================================================
+    EXPERIMENT 10: FREQUENCY SELECTIVE FADING (LEGACY JNLP)
+    Mobile Communication and Computing (MCC) Lab
+    
+    This JNLP file launches the Java applet for Frequency Selective Fading simulation.
+    It has been updated to include scholarly documentation and metadata.
+    
+    Experiment:   Experiment 10 (Legacy)
+    Date:         October 08, 2021
+    
+    Documented by: Amey Thakur
+    GitHub:        https://github.com/Amey-Thakur
+    Institution:   Terna Engineering College
+================================================================================
+-->
+<jnlp spec="1.0+" codebase="" href="">
+    <information>
+        <title>Frequency Selective Fading</title>
+        <vendor>Virtual Lab-IIT Kharagpur</vendor>
+        <description>Simulation of Frequency Selective Fading Channels</description>
+    </information>
+    <resources>
+        <!-- Application Resources -->
+        <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se" />
+        <jar href="old_Frequency_Selective_Fading.jar" main="true" />
+        <jar href="lib/iText-2.1.5.jar"/>
+        <jar href="lib/jcommon-1.0.16.jar"/>
+        <jar href="lib/jfreechart-1.0.13.jar"/>
+    </resources>
+    <applet-desc 
+         name="Frequency Selective Fading Applet"
+         main-class="exp10.Exp10_applet"
+         width="1045"
+         height="597">
+     </applet-desc>
+     <update check="background"/>
+</jnlp>
