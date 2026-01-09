@@ -1,0 +1,138 @@
+<!--
+================================================================================
+    EXPERIMENT 1: UNDERSTANDING OF PATH LOSS
+    Fading Channels and Mobile Communication Virtual Laboratory
+================================================================================
+
+    Title:          Understanding of Path Loss
+    Experiment:     Experiment 1 - Path Loss Calculation and Analysis
+    Date:           August 6, 2021
+    
+    Author:         Amey Thakur
+    GitHub:         https://github.com/Amey-Thakur
+    ORCID:          https://orcid.org/0000-0001-5644-1575
+    Repository:     https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB
+    
+    Institution:    Terna Engineering College, Navi Mumbai
+    University:     University of Mumbai
+    Course:         Mobile Communication and Computing (CSC702)
+    Semester:       VII (Final Year)
+    
+    Source:         IIT Kharagpur Virtual Lab - Fading Channels and Mobile Communication
+    Virtual Lab:    http://vlabs.iitkgp.ac.in/fcmc/index.html
+
+================================================================================
+    EXPERIMENT DESCRIPTION
+================================================================================
+    
+    This experiment provides a comprehensive understanding of Path Loss in 
+    wireless communication systems. Path Loss is the reduction in power density 
+    (attenuation) of an electromagnetic wave as it propagates through space.
+    
+    OBJECTIVES:
+    -----------
+    1. Calculate Received Power based on transmitter parameters
+    2. Determine Path Loss Exponent for different environments
+    3. Analyze the impact of Carrier Frequency on signal propagation
+    4. Evaluate Receiver Antenna Height effects on signal strength
+    5. Study Base Station (BS) Antenna Height optimization
+    
+    KEY PARAMETERS STUDIED:
+    -----------------------
+    - Transmitter Power (TxPow): Power output of the transmitting antenna
+    - Path Loss Exponent (n): Environment-dependent attenuation factor
+    - Carrier Frequency (fc): Operating frequency of the communication system
+    - Receiver Antenna Height (hRx): Height of the receiving antenna
+    - Transmitter Antenna Height (hTx): Height of the transmitting/BS antenna
+    - Distance (d): Separation between transmitter and receiver
+    
+    PATH LOSS MODEL:
+    ----------------
+    The experiment uses the Log-Distance Path Loss Model:
+    PL(d) = PL(d0) + 10 * n * log10(d/d0) + Xσ
+    
+    Where:
+    - PL(d): Path loss at distance d
+    - PL(d0): Path loss at reference distance d0
+    - n: Path loss exponent
+    - Xσ: Gaussian random variable (shadow fading)
+    
+    TYPICAL PATH LOSS EXPONENTS:
+    ----------------------------
+    - Free Space: n = 2
+    - Urban Area (Cellular): n = 2.7 to 3.5
+    - Shadowed Urban: n = 3 to 5
+    - Indoor (Line of Sight): n = 1.6 to 1.8
+    - Indoor (Obstructed): n = 4 to 6
+
+================================================================================
+    TECHNICAL REQUIREMENTS
+================================================================================
+    
+    - Java Runtime Environment (JRE) 1.5 or higher
+    - Java Web Start (JNLP) support
+    - Web browser with Java plugin enabled
+    
+    DEPENDENCIES:
+    - iText-2.1.5.jar: PDF generation library
+    - jcommon-1.0.16.jar: JFreeChart common utilities
+    - jfreechart-1.0.13.jar: Chart plotting library
+
+================================================================================
+    LICENSE AND ATTRIBUTION
+================================================================================
+    
+    This experiment is part of the Virtual Lab initiative by IIT Kharagpur.
+    Academic use and documentation by Amey Thakur under CC BY 4.0 License.
+    
+    Original Source: IIT Kharagpur - Fading Channels and Mobile Communication
+    Documentation: Amey Thakur (https://github.com/Amey-Thakur)
+
+================================================================================
+-->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+    <head>
+        <title>Experiment 1: Understanding of Path Loss</title>
+        <meta name="author" content="Amey Thakur">
+        <meta name="description" content="Path Loss calculation and analysis in wireless communication systems">
+        <meta name="keywords" content="Path Loss, Wireless Communication, Mobile Computing, IIT Kharagpur, Virtual Lab">
+        <meta name="date" content="2021-08-06">
+    </head>
+    <body>
+        <!-- Header Section -->
+        <h3 align="center">Fading Channels and Mobile Communication</h3>
+        <h4 align="center">Virtual Lab - IIT Kharagpur</h4>
+        <h3 align="center">Experiment 1: Understanding of Path Loss</h3>
+        
+        <!-- Java Applet Deployment -->
+        <script src="deployJava.js"></script>
+        <p align="center">
+        <script>
+            // Java Applet Configuration for Path Loss Experiment
+            var attributes = {
+                code:       "exppl.ExpPL",                    // Main class for Path Loss simulation
+                archive:    "Path_Loss.jar, lib/iText-2.1.5.jar, lib/jcommon-1.0.16.jar, lib/jfreechart-1.0.13.jar",
+                width:      890,                               // Applet display width
+                height:     670                                // Applet display height
+            };
+            var parameters = {jnlp_href:"Path_Loss.jnlp"};    // JNLP configuration file
+            var version = "1.5";                               // Minimum Java version required
+            deployJava.runApplet(attributes, parameters, version);
+        </script>
+        </p>
+        
+        <!-- Footer with Author Information -->
+        <hr>
+        <p align="center">
+            <small>
+                Documented by: <a href="https://github.com/Amey-Thakur">Amey Thakur</a> |
+                Date: August 6, 2021 |
+                <a href="https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB">Repository</a>
+            </small>
+        </p>
+        
+    </body>
+</html>
