@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+================================================================================
+    EXPERIMENT 4: HANDOVER MECHANISM
+    Fading Channels and Mobile Communication Virtual Laboratory
+================================================================================
+    
+    Experiment:     Experiment 4 - Handover Mechanism
+    Date:           August 13, 2021
+    Author:         Amey Thakur
+    Repository:     https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB
+    
+================================================================================
+-->
+<jnlp href="Handover_Mechanism.jnlp" spec="1.0+">
+    <information>
+        <title>Experiment 4: Handover Mechanism</title>
+        <vendor>IIT Kharagpur Virtual Lab</vendor>
+        <homepage href="http://vlabs.iitkgp.ac.in/fcmc/"/>
+        <description>Simulation of Handover Mechanism in Mobile Communication</description>
+        <description kind="short">Exp4: Handover</description>
+        <offline-allowed/>
+    </information>
+    
+    <update check="always"/>
+    
+    <security>
+        <all-permissions/>
+    </security>
+    
+    <resources>
+        <j2se java-vm-args="-Djava.security.policy=applet.policy" version="1.5+"/>
+        <jar href="Handover_Mechanism.jar" main="true"/>
+        
+        <!-- Library Dependencies -->
+        <jar href="lib/iText-2.1.5.jar"/>
+    </resources>
+    
+    <applet-desc height="588" main-class="boundarycoverage.BoundaryCoverage" name="Exp4" width="1058">
+    </applet-desc>
+</jnlp>
