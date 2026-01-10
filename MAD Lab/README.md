@@ -50,7 +50,7 @@ start studio64.exe .
 ```
 
 > [!TIP]
-> **Virtual Lab**: Access the source code and simulations for all experiments in the [**Virtual Lab Section**](#virtual-lab-simulations). Mobile Application Development experiments can also be accessed through the [**IIT Kharagpur Virtual Lab**](http://vlabs.iitkgp.ac.in/fcmc/index.html).
+> **Virtual Laboratory Resources**: This repository features a comprehensive [**Virtual Lab Section**](#virtual-lab-simulations), providing access to the underlying source code and simulations (including Java Applets, NS2 scripts, and Android projects) for practical verification of theoretical concepts. Supplementary virtual experiments are also available through the [**IIT Kharagpur Virtual Lab**](http://vlabs.iitkgp.ac.in/fcmc/index.html).
 
 ### Laboratory Reports
 Each experiment includes comprehensive PDF reports covering:
