@@ -49,7 +49,7 @@ start studio64.exe .
 ```
 
 > [!TIP]
-> **Virtual Lab**: Access the source code and simulations for all experiments in the [**Virtual Lab Hub**](Virtual%20Lab/). Mobile Application Development experiments can also be accessed through the [**IIT Kharagpur Virtual Lab**](http://vlabs.iitkgp.ac.in/fcmc/index.html).
+> **Virtual Lab**: Access the source code and simulations for all experiments in the [**Virtual Lab Section**](#virtual-lab-simulations). Mobile Application Development experiments can also be accessed through the [**IIT Kharagpur Virtual Lab**](http://vlabs.iitkgp.ac.in/fcmc/index.html).
 
 ### Laboratory Reports
 Each experiment includes comprehensive PDF reports covering:
@@ -86,6 +86,34 @@ Hands-on with network tools.
 ### Phase 4: Android Development
 Modern mobile app development.
 - **Experiment 9**: Android User Form with Validation.
+
+---
+
+<!-- =========================================================================================
+                                     VIRTUAL LAB SECTION
+     ========================================================================================= -->
+## Virtual Lab Simulations
+
+This repository includes the underlying **Source Code and Simulations** for the experiments, allowing you to run them locally.
+
+### Technologies Used
+
+| Technology | Type | Experiments |
+| :--- | :--- | :--- |
+| **Java Applets** | Legacy Simulation | Exp 1, 2, 3, 4, 6, 8, 10 |
+| **NS2 (TCL)** | Network Simulator | Exp 8 |
+| **Wireshark** | Packet Analysis | Exp 7 |
+| **Android** | Mobile App | Exp 9 |
+| **Cisco Packet Tracer** | Network Config | Exp 10 |
+
+### How to Run
+
+1.  **Legacy Java Applets**: Use `appletviewer <filename>.html` (from JDK) in the `Source Code` directory.
+2.  **NS2 Simulation**: Use `ns <filename>.tcl` (requires NS2 installed).
+3.  **Android Projects**: Open the project folder in **Android Studio**.
+
+> [!TIP]
+> **Access Source Code**: Use the **"Virtual Code"** links in the experiment tables below to navigate directly to the simulation files.
 
 ---
 
