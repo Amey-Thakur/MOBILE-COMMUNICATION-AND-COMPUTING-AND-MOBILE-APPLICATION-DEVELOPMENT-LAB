@@ -8,6 +8,7 @@
   ### CSL702 · Semester VII · Computer Engineering
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![Virtual Lab](https://img.shields.io/badge/Virtual%20Lab-Interactive-orange?style=flat&logo=java)](#virtual-lab-simulations)
   [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#experiment-1-understanding-of-path-loss)
   [![Language](https://img.shields.io/badge/Language-Java%20%7C%20XML-orange.svg)](./)
   [![Type](https://img.shields.io/badge/Type-PDF%20%7C%20DOCX-blueviolet.svg)](./)
