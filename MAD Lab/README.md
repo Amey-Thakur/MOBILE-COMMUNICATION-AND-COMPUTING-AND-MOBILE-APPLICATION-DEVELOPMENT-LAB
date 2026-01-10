@@ -127,10 +127,13 @@ Understanding the path loss prediction formula
 
 **Date:** August 06, 2021
 
-| # | Document | Description | Link | Virtual Code |
-|:-:|:---|:---|:-:|:-:|
-| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-1/AMEY_B-50_MCC_EXPERIMENT-1.pdf) | [View Code](Virtual%20Lab/Experiment-1/Source%20Code/) |
-| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-1/AMEY_B-50_MCC_EXPERIMENT-1.docx) | — |
+| Resource | Category | Description | Link |
+|:---|:---|:---|:---:|
+| **Lab Report (PDF)** | Document | Detailed experiment report | [View](Experiment-1/AMEY_B-50_MCC_EXPERIMENT-1.pdf) |
+| **Lab Report (DOCX)** | Document | Editable report file | [Download](Experiment-1/AMEY_B-50_MCC_EXPERIMENT-1.docx) |
+| <kbd>Simulation</kbd> | Java Applet | Path Loss Prediction Model | [View](Virtual%20Lab/Experiment-1/Source%20Code/) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](Virtual%20Lab/Experiment-1/Source%20Code/Readme.txt) |
+| <kbd>Tutorial</kbd> | Video | Experiment Walkthrough | 📹 [Watch](Virtual%20Lab/Experiment-1/Experiment-1.avi) |
 
 ---
 
@@ -143,10 +146,13 @@ Understanding the concept of co-channel interference and SINR (Signal to Interfe
 
 **Date:** July 29, 2021
 
-| # | Document | Description | Link | Virtual Code |
-|:-:|:---|:---|:-:|:-:|
-| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-2/AMEY_B-50_MCC_EXPERIMENT-2.pdf) | [View Code](Virtual%20Lab/Experiment-2/Source%20Code/) |
-| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-2/AMEY_B-50_MCC_EXPERIMENT-2.docx) | — |
+| Resource | Category | Description | Link |
+|:---|:---|:---|:---:|
+| **Lab Report (PDF)** | Document | Detailed experiment report | [View](Experiment-2/AMEY_B-50_MCC_EXPERIMENT-2.pdf) |
+| **Lab Report (DOCX)** | Document | Editable report file | [Download](Experiment-2/AMEY_B-50_MCC_EXPERIMENT-2.docx) |
+| <kbd>Simulation</kbd> | Java Applet | Co-channel Interference & SINR | [View](Virtual%20Lab/Experiment-2/Source%20Code/) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](Virtual%20Lab/Experiment-2/Source%20Code/Readme.txt) |
+| <kbd>Tutorial</kbd> | Video | Experiment Walkthrough | 📹 [Watch](Virtual%20Lab/Experiment-2/Experiment-2.avi) |
 
 ---
 
@@ -159,10 +165,13 @@ Understanding the cellular network frequency reuse concept - finding co-channel 
 
 **Date:** July 19, 2021
 
-| # | Document | Description | Link | Virtual Code |
-|:-:|:---|:---|:-:|:-:|
-| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-3/AMEY_B-50_MCC_EXPERIMENT-3.pdf) | [View Code](Virtual%20Lab/Experiment-3/Source%20Code/) |
-| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-3/AMEY_B-50_MCC_EXPERIMENT-3.docx) | — |
+| Resource | Category | Description | Link |
+|:---|:---|:---|:---:|
+| **Lab Report (PDF)** | Document | Detailed experiment report | [View](Experiment-3/AMEY_B-50_MCC_EXPERIMENT-3.pdf) |
+| **Lab Report (DOCX)** | Document | Editable report file | [Download](Experiment-3/AMEY_B-50_MCC_EXPERIMENT-3.docx) |
+| <kbd>Simulation</kbd> | Java Applet | Frequency Reuse Concept | [View](Virtual%20Lab/Experiment-3/Source%20Code/) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](Virtual%20Lab/Experiment-3/Source%20Code/Readme.txt) |
+| <kbd>Tutorial</kbd> | Video | Experiment Walkthrough | 📹 [Watch](Virtual%20Lab/Experiment-3/Experiment-3.avi) |
 
 ---
 
@@ -175,10 +184,13 @@ Understanding the handover mechanism in mobile communication
 
 **Date:** August 13, 2021
 
-| # | Document | Description | Link | Virtual Code |
-|:-:|:---|:---|:-:|:-:|
-| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-4/AMEY_B-50_MCC_EXPERIMENT-4.pdf) | [View Code](Virtual%20Lab/Experiment-4/Source%20Code/) |
-| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-4/AMEY_B-50_MCC_EXPERIMENT-4.docx) | — |
+| Resource | Category | Description | Link |
+|:---|:---|:---|:---:|
+| **Lab Report (PDF)** | Document | Detailed experiment report | [View](Experiment-4/AMEY_B-50_MCC_EXPERIMENT-4.pdf) |
+| **Lab Report (DOCX)** | Document | Editable report file | [Download](Experiment-4/AMEY_B-50_MCC_EXPERIMENT-4.docx) |
+| <kbd>Simulation</kbd> | Java Applet | Handover Mechanism | [View](Virtual%20Lab/Experiment-4/Source%20Code/) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](Virtual%20Lab/Experiment-4/Source%20Code/Readme.txt) |
+| <kbd>Tutorial</kbd> | Video | Experiment Walkthrough | 📹 [Watch](Virtual%20Lab/Experiment-4/Experiment-4.avi) |
 
 ---
 
@@ -191,12 +203,16 @@ Write a program using WML to display user form with validation for WAP-enabled p
 
 **Date:** August 20, 2021
 
-| # | Program | Description | Source Code | Virtual Code |
-|:-:|:---|:---|:-:|:-:|
-| 1 | Validation.wml | WML form for student registration | [View](Experiment-5/Validation.wml) | [View Code](Virtual%20Lab/Experiment-5/Source%20Code/) |
-| 2 | Validate.wmls | WMLScript for form validation | [View](Experiment-5/Validate.wmls) | — |
-| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-5/AMEY_B-50_MCC_EXPERIMENT-5.pdf) | — |
-| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-5/AMEY_B-50_MCC_EXPERIMENT-5.docx) | — |
+| Resource | Category | Description | Link |
+|:---|:---|:---|:---:|
+| <kbd>Validation.wml</kbd> | WML | WML form for student registration | [View](Experiment-5/Validation.wml) |
+| <kbd>Validate.wmls</kbd> | WMLScript | WMLScript for form validation | [View](Experiment-5/Validate.wmls) |
+| **Lab Report (PDF)** | Document | Detailed experiment report | [View](Experiment-5/AMEY_B-50_MCC_EXPERIMENT-5.pdf) |
+| **Lab Report (DOCX)** | Document | Editable report file | [Download](Experiment-5/AMEY_B-50_MCC_EXPERIMENT-5.docx) |
+| <kbd>Simulation</kbd> | Project | Complete Virtual Lab Source | [View](Virtual%20Lab/Experiment-5/Source%20Code/) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](Virtual%20Lab/Experiment-5/Source%20Code/README.txt) |
+| <kbd>Tutorial A</kbd> | Video | Experiment Walkthrough (Part A) | 📹 [Watch](Virtual%20Lab/Experiment-5/Experiment-5A.avi) |
+| <kbd>Tutorial B</kbd> | Video | Experiment Walkthrough (Part B) | 📹 [Watch](Virtual%20Lab/Experiment-5/Experiment-5B.avi) |
 
 ---
 
@@ -209,15 +225,19 @@ Write a program using WML to display a calculator and calendar for android phone
 
 **Date:** August 27, 2021
 
-| # | Program | Description | Source Code | Virtual Code |
-|:-:|:---|:---|:-:|:-:|
-| 1 | Calculator.wml | WML calculator interface | [View](Experiment-6/Calculator.wml) | [View Code](Virtual%20Lab/Experiment-6/Source%20Code/) |
-| 2 | Calculator.wmls | WMLScript calculator logic | [View](Experiment-6/Calculator.wmls) | — |
-| 3 | Calendar.wml | WML calendar display | [View](Experiment-6/Calendar.wml) | — |
-| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-6/AMEY_B-50_MCC_EXPERIMENT-6.pdf) | — |
-| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-6/AMEY_B-50_MCC_EXPERIMENT-6.docx) | — |
-| — | Lab Report (PDF) | Frequency Reuse Virtual Lab | [View](Experiment-6/AMEY_B-50_MCC_EXPERIMENT-6A.pdf) | — |
-| — | Lab Report (DOCX) | Editable report file (Virtual Lab) | [Download](Experiment-6/AMEY_B-50_MCC_EXPERIMENT-6A.docx) | — |
+| Resource | Category | Description | Link |
+|:---|:---|:---|:---:|
+| <kbd>Calculator.wml</kbd> | WML | WML calculator interface | [View](Experiment-6/Calculator.wml) |
+| <kbd>Calculator.wmls</kbd> | WMLScript | WMLScript calculator logic | [View](Experiment-6/Calculator.wmls) |
+| <kbd>Calendar.wml</kbd> | WML | WML calendar display | [View](Experiment-6/Calendar.wml) |
+| **Lab Report (PDF)** | Document | Detailed experiment report | [View](Experiment-6/AMEY_B-50_MCC_EXPERIMENT-6.pdf) |
+| **Lab Report (DOCX)** | Document | Editable report file | [Download](Experiment-6/AMEY_B-50_MCC_EXPERIMENT-6.docx) |
+| **Lab Report (PDF)** | Document | Frequency Reuse Virtual Lab | [View](Experiment-6/AMEY_B-50_MCC_EXPERIMENT-6A.pdf) |
+| **Lab Report (DOCX)** | Document | Editable report file (Virtual Lab) | [Download](Experiment-6/AMEY_B-50_MCC_EXPERIMENT-6A.docx) |
+| <kbd>Simulation</kbd> | Project | Complete Virtual Lab Source | [View](Virtual%20Lab/Experiment-6/Source%20Code/) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](Virtual%20Lab/Experiment-6/Source%20Code/README.txt) |
+| <kbd>Tutorial A</kbd> | Video | Experiment Walkthrough (Part A) | 📹 [Watch](Virtual%20Lab/Experiment-6/Experiment-6A.avi) |
+| <kbd>Tutorial B</kbd> | Video | Experiment Walkthrough (Part B) | 📹 [Watch](Virtual%20Lab/Experiment-6/Experiment-6B.avi) |
 
 ---
 
@@ -230,10 +250,12 @@ Analyze network packets using Wireshark packet analyzer
 
 **Date:** September 17, 2021
 
-| # | Document | Description | Link | Virtual Code |
-|:-:|:---|:---|:-:|:-:|
-| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-7/AMEY_B-50_MCC_EXPERIMENT-7.pdf) | [Watch Video](Virtual%20Lab/Experiment-7/Source%20Code/Experiment-7.avi) |
-| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-7/AMEY_B-50_MCC_EXPERIMENT-7.docx) | — |
+| Resource | Category | Description | Link |
+|:---|:---|:---|:---:|
+| **Lab Report (PDF)** | Document | Detailed experiment report | [View](Experiment-7/AMEY_B-50_MCC_EXPERIMENT-7.pdf) |
+| **Lab Report (DOCX)** | Document | Editable report file | [Download](Experiment-7/AMEY_B-50_MCC_EXPERIMENT-7.docx) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](Virtual%20Lab/Experiment-7/Source%20Code/README.txt) |
+| <kbd>Tutorial</kbd> | Video | Packet Analysis Walkthrough | 📹 [Watch](Virtual%20Lab/Experiment-7/Experiment-7.avi) |
 
 ---
 
@@ -246,11 +268,14 @@ Install Ubuntu in VirtualBox and create a small wireless network (MANET) using N
 
 **Date:** September 24, 2021
 
-| # | Program | Description | Source Code | Virtual Code |
-|:-:|:---|:---|:-:|:-:|
-| 1 | manet_simulation.tcl | NS2 TCL script for wireless MANET | [View](Experiment-8/manet_simulation.tcl) | [View Code](Virtual%20Lab/Experiment-8/Source%20Code/) |
-| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-8/AMEY_B-50_MCC_EXPERIMENT-8.pdf) | — |
-| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-8/AMEY_B-50_MCC_EXPERIMENT-8.docx) | — |
+| Resource | Category | Description | Link |
+|:---|:---|:---|:---:|
+| <kbd>manet_simulation.tcl</kbd> | NS2 TCL | NS2 TCL script for wireless MANET | [View](Experiment-8/manet_simulation.tcl) |
+| **Lab Report (PDF)** | Document | Detailed experiment report | [View](Experiment-8/AMEY_B-50_MCC_EXPERIMENT-8.pdf) |
+| **Lab Report (DOCX)** | Document | Editable report file | [Download](Experiment-8/AMEY_B-50_MCC_EXPERIMENT-8.docx) |
+| <kbd>Simulation</kbd> | NS2 Project | Complete Virtual Lab Source | [View](Virtual%20Lab/Experiment-8/Source%20Code/) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](Virtual%20Lab/Experiment-8/Source%20Code/Readme.txt) |
+| <kbd>Tutorial</kbd> | Video | Experiment Walkthrough | 📹 [Watch](Virtual%20Lab/Experiment-8/Experiment-8.avi) |
 
 ---
 
@@ -263,13 +288,16 @@ Write a program for android phone display user form and its validation for andro
 
 **Date:** October 01, 2021
 
-| # | Program | Description | Source Code | Virtual Code |
-|:-:|:---|:---|:-:|:-:|
-| 1 | strings.xml | Android resource strings | [View](Experiment-9/strings.xml) | [View Code](Virtual%20Lab/Experiment-9/Source%20Code/) |
-| 2 | activity_main.xml | Registration form layout | [View](Experiment-9/activity_main.xml) | — |
-| 3 | MainActivity.java | Form validation logic | [View](Experiment-9/MainActivity.java) | — |
-| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-9/AMEY_B-50_MCC_EXPERIMENT-9.pdf) | — |
-| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-9/AMEY_B-50_MCC_EXPERIMENT-9.docx) | — |
+| Resource | Category | Description | Link |
+|:---|:---|:---|:---:|
+| <kbd>strings.xml</kbd> | Android Resource | Android resource strings | [View](Experiment-9/strings.xml) |
+| <kbd>activity_main.xml</kbd> | Android Layout | Registration form layout | [View](Experiment-9/activity_main.xml) |
+| <kbd>MainActivity.java</kbd> | Android Activity | Form validation logic | [View](Experiment-9/MainActivity.java) |
+| **Lab Report (PDF)** | Document | Detailed experiment report | [View](Experiment-9/AMEY_B-50_MCC_EXPERIMENT-9.pdf) |
+| **Lab Report (DOCX)** | Document | Editable report file | [Download](Experiment-9/AMEY_B-50_MCC_EXPERIMENT-9.docx) |
+| <kbd>Simulation</kbd> | Android Project | Complete Virtual Lab Source | [View](Virtual%20Lab/Experiment-9/Source%20Code/) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](Virtual%20Lab/Experiment-9/Source%20Code/README.txt) |
+| <kbd>Tutorial</kbd> | Video | Experiment Walkthrough | 📹 [Watch](Virtual%20Lab/Experiment-9/Experiment-9.avi) |
 
 ---
 
@@ -282,10 +310,13 @@ Set up and configuration of wireless Access Points using Cisco Packet Tracer
 
 **Date:** October 08, 2021
 
-| # | Document | Description | Link | Virtual Code |
-|:-:|:---|:---|:-:|:-:|
-| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-10/AMEY_B-50_MCC_EXPERIMENT-10.pdf) | [View Code](Virtual%20Lab/Experiment-10/Source%20Code/) |
-| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-10/AMEY_B-50_MCC_EXPERIMENT-10.docx) | — |
+| Resource | Category | Description | Link |
+|:---|:---|:---|:---:|
+| **Lab Report (PDF)** | Document | Detailed experiment report | [View](Experiment-10/AMEY_B-50_MCC_EXPERIMENT-10.pdf) |
+| **Lab Report (DOCX)** | Document | Editable report file | [Download](Experiment-10/AMEY_B-50_MCC_EXPERIMENT-10.docx) |
+| <kbd>Simulation</kbd> | Packet Tracer | Wireless Access Point Config | [View](Virtual%20Lab/Experiment-10/Source%20Code/) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](Virtual%20Lab/Experiment-10/Source%20Code/Readme.txt) |
+| <kbd>Tutorial</kbd> | Video | Experiment Walkthrough | 📹 [Watch](Virtual%20Lab/Experiment-10/Experiment-10.avi) |
 
 ---
 
