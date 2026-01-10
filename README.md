@@ -12,6 +12,7 @@
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
   [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
+  [![Virtual Lab](https://img.shields.io/badge/Virtual%20Lab-Interactive-orange?style=flat&logo=java)](MAD%20Lab/Virtual%20Lab/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
   **A comprehensive academic resource for Mobile Communication and Computing (MCC) and Mobile Application Development Laboratory (MAD Lab), covering wireless networks, mobile communication protocols, Android application development, and mobile computing architectures.**
@@ -127,6 +128,9 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 
 > [!TIP]
 > **Virtual Lab**: Mobile Application Development experiments can also be accessed through the [**IIT Kharagpur Virtual Lab**](http://vlabs.iitkgp.ac.in/fcmc/index.html).
+
+> [!IMPORTANT]
+> **🚀 Interactive Virtual Lab**: Access the source code and simulations for all 10 experiments in the [**Virtual Lab Hub**](MAD%20Lab/Virtual%20Lab/).
 
 | # | Experiment | Date | Report |
 |:-:|:---|:---:|:-:|
