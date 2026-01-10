@@ -150,6 +150,7 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 | Program | Category | Description | Source Code |
 |:---|:---|:---|:---:|
 | <kbd>Simulation</kbd> | Java Applet | Path Loss Prediction Model | [View](MAD%20Lab/Virtual%20Lab/Experiment-1/Source%20Code/) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](MAD%20Lab/Virtual%20Lab/Experiment-1/Source%20Code/Readme.txt) |
 
 </details>
 
@@ -159,6 +160,7 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 | Program | Category | Description | Source Code |
 |:---|:---|:---|:---:|
 | <kbd>Simulation</kbd> | Java Applet | Co-channel Interference & SINR | [View](MAD%20Lab/Virtual%20Lab/Experiment-2/Source%20Code/) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](MAD%20Lab/Virtual%20Lab/Experiment-2/Source%20Code/Readme.txt) |
 
 </details>
 
@@ -168,6 +170,7 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 | Program | Category | Description | Source Code |
 |:---|:---|:---|:---:|
 | <kbd>Simulation</kbd> | Java Applet | Frequency Reuse Concept | [View](MAD%20Lab/Virtual%20Lab/Experiment-3/Source%20Code/) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](MAD%20Lab/Virtual%20Lab/Experiment-3/Source%20Code/Readme.txt) |
 
 </details>
 
@@ -177,6 +180,7 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 | Program | Category | Description | Source Code |
 |:---|:---|:---|:---:|
 | <kbd>Simulation</kbd> | Java Applet | Handover Mechanism | [View](MAD%20Lab/Virtual%20Lab/Experiment-4/Source%20Code/) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](MAD%20Lab/Virtual%20Lab/Experiment-4/Source%20Code/Readme.txt) |
 
 </details>
 
@@ -188,6 +192,7 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 | <kbd>Validation.wml</kbd> | WML | WML form for student registration | [View](MAD%20Lab/Experiment-5/Validation.wml) |
 | <kbd>Validate.wmls</kbd> | WMLScript | WMLScript for form validation | [View](MAD%20Lab/Experiment-5/Validate.wmls) |
 | <kbd>Simulation</kbd> | Project | Complete Virtual Lab Source | [View](MAD%20Lab/Virtual%20Lab/Experiment-5/Source%20Code/) |
+| <kbd>README.txt</kbd> | Text | Experiment Usage Instructions | [View](MAD%20Lab/Virtual%20Lab/Experiment-5/Source%20Code/README.txt) |
 
 </details>
 
@@ -200,6 +205,7 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 | <kbd>Calculator.wmls</kbd> | WMLScript | WMLScript calculator logic | [View](MAD%20Lab/Experiment-6/Calculator.wmls) |
 | <kbd>Calendar.wml</kbd> | WML | WML calendar display | [View](MAD%20Lab/Experiment-6/Calendar.wml) |
 | <kbd>Simulation</kbd> | Project | Complete Virtual Lab Source | [View](MAD%20Lab/Virtual%20Lab/Experiment-6/Source%20Code/) |
+| <kbd>README.txt</kbd> | Text | Experiment Usage Instructions | [View](MAD%20Lab/Virtual%20Lab/Experiment-6/Source%20Code/README.txt) |
 
 </details>
 
@@ -209,6 +215,7 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 | Program | Category | Description | Tutorial |
 |:---|:---|:---|:---:|
 | <kbd>Video Demo</kbd> | Wireshark | Packet Analysis Walkthrough | [Watch](MAD%20Lab/Virtual%20Lab/Experiment-7/Source%20Code/Experiment-7.avi) |
+| <kbd>README.txt</kbd> | Text | Experiment Usage Instructions | [View](MAD%20Lab/Virtual%20Lab/Experiment-7/Source%20Code/README.txt) |
 
 </details>
 
@@ -219,6 +226,7 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 |:---|:---|:---|:---:|
 | <kbd>manet_simulation.tcl</kbd> | NS2 TCL | NS2 TCL script for wireless MANET | [View](MAD%20Lab/Experiment-8/manet_simulation.tcl) |
 | <kbd>Simulation</kbd> | NS2 Project | Complete Virtual Lab Source | [View](MAD%20Lab/Virtual%20Lab/Experiment-8/Source%20Code/) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](MAD%20Lab/Virtual%20Lab/Experiment-8/Source%20Code/Readme.txt) |
 
 </details>
 
@@ -231,6 +239,7 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 | <kbd>activity_main.xml</kbd> | Android Layout | Registration form layout | [View](MAD%20Lab/Experiment-9/activity_main.xml) |
 | <kbd>MainActivity.java</kbd> | Android Activity | Form validation logic | [View](MAD%20Lab/Experiment-9/MainActivity.java) |
 | <kbd>Simulation</kbd> | Android Project | Complete Virtual Lab Source | [View](MAD%20Lab/Virtual%20Lab/Experiment-9/Source%20Code/) |
+| <kbd>README.txt</kbd> | Text | Experiment Usage Instructions | [View](MAD%20Lab/Virtual%20Lab/Experiment-9/Source%20Code/README.txt) |
 
 </details>
 
@@ -240,6 +249,7 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 | Program | Category | Description | Source Code |
 |:---|:---|:---|:---:|
 | <kbd>Simulation</kbd> | Packet Tracer | Wireless Access Point Config | [View](MAD%20Lab/Virtual%20Lab/Experiment-10/Source%20Code/) |
+| <kbd>Readme.txt</kbd> | Text | Experiment Usage Instructions | [View](MAD%20Lab/Virtual%20Lab/Experiment-10/Source%20Code/Readme.txt) |
 
 </details>
 
