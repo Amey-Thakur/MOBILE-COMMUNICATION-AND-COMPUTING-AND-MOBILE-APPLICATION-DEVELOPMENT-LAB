@@ -122,6 +122,7 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
   [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](MAD%20Lab/)
   [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](MAD%20Lab/)
   [![Language](https://img.shields.io/badge/Language-Java%20%7C%20XML-orange.svg)](MAD%20Lab/)
+  [![Virtual Lab](https://img.shields.io/badge/Virtual%20Lab-IIT%20Kharagpur-blue.svg)](http://vlabs.iitkgp.ac.in/fcmc/index.html)
 
 </div>
 
