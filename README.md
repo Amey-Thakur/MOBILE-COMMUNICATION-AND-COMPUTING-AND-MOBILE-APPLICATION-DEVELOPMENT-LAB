@@ -127,8 +127,7 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 
 > [!TIP]
 > **Virtual Lab**: Mobile Application Development experiments can also be accessed through the [**IIT Kharagpur Virtual Lab**](http://vlabs.iitkgp.ac.in/fcmc/index.html).
-
-> [!IMPORTANT]
+>
 > **🚀 Interactive Virtual Lab**: Access the source code and simulations for all 10 experiments in the [**Virtual Lab Section**](MAD%20Lab/README.md#virtual-lab-simulations).
 
 | # | Experiment | Date | Report |
