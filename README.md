@@ -129,59 +129,117 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 > [!TIP]
 > **Virtual Laboratory Resources**: This repository features a comprehensive [**Virtual Lab Section**](MAD%20Lab/README.md#virtual-lab-simulations), providing access to the underlying source code and simulations (including Java Applets, NS2 scripts, and Android projects) for practical verification of theoretical concepts. Supplementary virtual experiments are also available through the [**IIT Kharagpur Virtual Lab**](http://vlabs.iitkgp.ac.in/fcmc/index.html).
 
-| # | Experiment | Date | Report | Virtual Lab (Source Code) | Tutorial |
-|:-:|:---|:---:|:-:|:-:|:-:|
-| 1 | Understanding of Path Loss | August 06, 2021 | [View](MAD%20Lab/Experiment-1/AMEY_B-50_MCC_EXPERIMENT-1.pdf) | [View](MAD%20Lab/Virtual%20Lab/Experiment-1/Source%20Code/) | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-1/Experiment-1.avi) |
-| 2 | Understanding Co-channel Interference and SINR | July 29, 2021 | [View](MAD%20Lab/Experiment-2/AMEY_B-50_MCC_EXPERIMENT-2.pdf) | [View](MAD%20Lab/Virtual%20Lab/Experiment-2/Source%20Code/) | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-2/Experiment-2.avi) |
-| 3 | Understanding Cellular Network Frequency Reuse | July 19, 2021 | [View](MAD%20Lab/Experiment-3/AMEY_B-50_MCC_EXPERIMENT-3.pdf) | [View](MAD%20Lab/Virtual%20Lab/Experiment-3/Source%20Code/) | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-3/Experiment-3.avi) |
-| 4 | Understanding the Handover Mechanism | August 13, 2021 | [View](MAD%20Lab/Experiment-4/AMEY_B-50_MCC_EXPERIMENT-4.pdf) | [View](MAD%20Lab/Virtual%20Lab/Experiment-4/Source%20Code/) | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-4/Experiment-4.avi) |
-| 5 | WML Form Validation for WAP-enabled Phones | August 20, 2021 | [View](MAD%20Lab/Experiment-5/AMEY_B-50_MCC_EXPERIMENT-5.pdf) | [View](MAD%20Lab/Virtual%20Lab/Experiment-5/Source%20Code/) | 📹 [Watch A](MAD%20Lab/Virtual%20Lab/Experiment-5/Experiment-5A.avi) <br> 📹 [Watch B](MAD%20Lab/Virtual%20Lab/Experiment-5/Experiment-5B.avi) |
-| 6 | WML Calculator and Calendar for Android Phones | August 27, 2021 | [View](MAD%20Lab/Experiment-6/AMEY_B-50_MCC_EXPERIMENT-6.pdf) | [View](MAD%20Lab/Virtual%20Lab/Experiment-6/Source%20Code/) | 📹 [Watch A](MAD%20Lab/Virtual%20Lab/Experiment-6/Experiment-6A.avi) <br> 📹 [Watch B](MAD%20Lab/Virtual%20Lab/Experiment-6/Experiment-6B.avi) |
-| 7 | Analyzing Network Packets using Wireshark | September 17, 2021 | [View](MAD%20Lab/Experiment-7/AMEY_B-50_MCC_EXPERIMENT-7.pdf) | — | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-7/Experiment-7.avi) |
-| 8 | Ubuntu Installation and Wireless Network (MANET) using NS2 | September 24, 2021 | [View](MAD%20Lab/Experiment-8/AMEY_B-50_MCC_EXPERIMENT-8.pdf) | [View](MAD%20Lab/Virtual%20Lab/Experiment-8/Source%20Code/) | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-8/Experiment-8.avi) |
-| 9 | Android User Form with Validation | October 01, 2021 | [View](MAD%20Lab/Experiment-9/AMEY_B-50_MCC_EXPERIMENT-9.pdf) | [View](MAD%20Lab/Virtual%20Lab/Experiment-9/Source%20Code/) | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-9/Experiment-9.avi) |
-| 10 | Setup and Configuration of Wireless Access Points | October 08, 2021 | [View](MAD%20Lab/Experiment-10/AMEY_B-50_MCC_EXPERIMENT-10.pdf) | [View](MAD%20Lab/Virtual%20Lab/Experiment-10/Source%20Code/) | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-10/Experiment-10.avi) |
+| # | Experiment | Date | Report | Tutorial |
+|:-:|:---|:---:|:-:|:-:|
+| 1 | Understanding of Path Loss | August 06, 2021 | [View](MAD%20Lab/Experiment-1/AMEY_B-50_MCC_EXPERIMENT-1.pdf) | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-1/Experiment-1.avi) |
+| 2 | Understanding Co-channel Interference and SINR | July 29, 2021 | [View](MAD%20Lab/Experiment-2/AMEY_B-50_MCC_EXPERIMENT-2.pdf) | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-2/Experiment-2.avi) |
+| 3 | Understanding Cellular Network Frequency Reuse | July 19, 2021 | [View](MAD%20Lab/Experiment-3/AMEY_B-50_MCC_EXPERIMENT-3.pdf) | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-3/Experiment-3.avi) |
+| 4 | Understanding the Handover Mechanism | August 13, 2021 | [View](MAD%20Lab/Experiment-4/AMEY_B-50_MCC_EXPERIMENT-4.pdf) | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-4/Experiment-4.avi) |
+| 5 | WML Form Validation for WAP-enabled Phones | August 20, 2021 | [View](MAD%20Lab/Experiment-5/AMEY_B-50_MCC_EXPERIMENT-5.pdf) | 📹 [Watch A](MAD%20Lab/Virtual%20Lab/Experiment-5/Experiment-5A.avi) <br> 📹 [Watch B](MAD%20Lab/Virtual%20Lab/Experiment-5/Experiment-5B.avi) |
+| 6 | WML Calculator and Calendar for Android Phones | August 27, 2021 | [View](MAD%20Lab/Experiment-6/AMEY_B-50_MCC_EXPERIMENT-6.pdf) | 📹 [Watch A](MAD%20Lab/Virtual%20Lab/Experiment-6/Experiment-6A.avi) <br> 📹 [Watch B](MAD%20Lab/Virtual%20Lab/Experiment-6/Experiment-6B.avi) |
+| 7 | Analyzing Network Packets using Wireshark | September 17, 2021 | [View](MAD%20Lab/Experiment-7/AMEY_B-50_MCC_EXPERIMENT-7.pdf) | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-7/Experiment-7.avi) |
+| 8 | Ubuntu Installation and Wireless Network (MANET) using NS2 | September 24, 2021 | [View](MAD%20Lab/Experiment-8/AMEY_B-50_MCC_EXPERIMENT-8.pdf) | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-8/Experiment-8.avi) |
+| 9 | Android User Form with Validation | October 01, 2021 | [View](MAD%20Lab/Experiment-9/AMEY_B-50_MCC_EXPERIMENT-9.pdf) | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-9/Experiment-9.avi) |
+| 10 | Setup and Configuration of Wireless Access Points | October 08, 2021 | [View](MAD%20Lab/Experiment-10/AMEY_B-50_MCC_EXPERIMENT-10.pdf) | 📹 [Watch](MAD%20Lab/Virtual%20Lab/Experiment-10/Experiment-10.avi) |
 
 ### Program Details
 
 <details>
+<summary><b>Experiment 1: Understanding of Path Loss</b></summary>
+
+| Program | Category | Description | Source Code |
+|:---|:---|:---|:---:|
+| <kbd>Simulation</kbd> | Java Applet | Path Loss Prediction Model | [View](MAD%20Lab/Virtual%20Lab/Experiment-1/Source%20Code/) |
+
+</details>
+
+<details>
+<summary><b>Experiment 2: Understanding Co-channel Interference and SINR</b></summary>
+
+| Program | Category | Description | Source Code |
+|:---|:---|:---|:---:|
+| <kbd>Simulation</kbd> | Java Applet | Co-channel Interference & SINR | [View](MAD%20Lab/Virtual%20Lab/Experiment-2/Source%20Code/) |
+
+</details>
+
+<details>
+<summary><b>Experiment 3: Understanding Cellular Network Frequency Reuse</b></summary>
+
+| Program | Category | Description | Source Code |
+|:---|:---|:---|:---:|
+| <kbd>Simulation</kbd> | Java Applet | Frequency Reuse Concept | [View](MAD%20Lab/Virtual%20Lab/Experiment-3/Source%20Code/) |
+
+</details>
+
+<details>
+<summary><b>Experiment 4: Understanding the Handover Mechanism</b></summary>
+
+| Program | Category | Description | Source Code |
+|:---|:---|:---|:---:|
+| <kbd>Simulation</kbd> | Java Applet | Handover Mechanism | [View](MAD%20Lab/Virtual%20Lab/Experiment-4/Source%20Code/) |
+
+</details>
+
+<details>
 <summary><b>Experiment 5: WML Form Validation (2 Programs)</b></summary>
 
-| Program | Category | Description | Code |
+| Program | Category | Description | Source Code |
 |:---|:---|:---|:---:|
 | <kbd>Validation.wml</kbd> | WML | WML form for student registration | [View](MAD%20Lab/Experiment-5/Validation.wml) |
 | <kbd>Validate.wmls</kbd> | WMLScript | WMLScript for form validation | [View](MAD%20Lab/Experiment-5/Validate.wmls) |
+| <kbd>Simulation</kbd> | Project | Complete Virtual Lab Source | [View](MAD%20Lab/Virtual%20Lab/Experiment-5/Source%20Code/) |
 
 </details>
 
 <details>
 <summary><b>Experiment 6: WML Calculator and Calendar (3 Programs)</b></summary>
 
-| Program | Category | Description | Code |
+| Program | Category | Description | Source Code |
 |:---|:---|:---|:---:|
 | <kbd>Calculator.wml</kbd> | WML | WML calculator interface | [View](MAD%20Lab/Experiment-6/Calculator.wml) |
 | <kbd>Calculator.wmls</kbd> | WMLScript | WMLScript calculator logic | [View](MAD%20Lab/Experiment-6/Calculator.wmls) |
 | <kbd>Calendar.wml</kbd> | WML | WML calendar display | [View](MAD%20Lab/Experiment-6/Calendar.wml) |
+| <kbd>Simulation</kbd> | Project | Complete Virtual Lab Source | [View](MAD%20Lab/Virtual%20Lab/Experiment-6/Source%20Code/) |
+
+</details>
+
+<details>
+<summary><b>Experiment 7: Analyzing Network Packets using Wireshark</b></summary>
+
+| Program | Category | Description | Tutorial |
+|:---|:---|:---|:---:|
+| <kbd>Video Demo</kbd> | Wireshark | Packet Analysis Walkthrough | [Watch](MAD%20Lab/Virtual%20Lab/Experiment-7/Source%20Code/Experiment-7.avi) |
 
 </details>
 
 <details>
 <summary><b>Experiment 8: Ubuntu and MANET using NS2 (1 Program)</b></summary>
 
-| Program | Category | Description | Code |
+| Program | Category | Description | Source Code |
 |:---|:---|:---|:---:|
 | <kbd>manet_simulation.tcl</kbd> | NS2 TCL | NS2 TCL script for wireless MANET | [View](MAD%20Lab/Experiment-8/manet_simulation.tcl) |
+| <kbd>Simulation</kbd> | NS2 Project | Complete Virtual Lab Source | [View](MAD%20Lab/Virtual%20Lab/Experiment-8/Source%20Code/) |
 
 </details>
 
 <details>
 <summary><b>Experiment 9: Android User Form with Validation (3 Programs)</b></summary>
 
-| Program | Category | Description | Code |
+| Program | Category | Description | Source Code |
 |:---|:---|:---|:---:|
 | <kbd>strings.xml</kbd> | Android Resource | Android resource strings | [View](MAD%20Lab/Experiment-9/strings.xml) |
 | <kbd>activity_main.xml</kbd> | Android Layout | Registration form layout | [View](MAD%20Lab/Experiment-9/activity_main.xml) |
 | <kbd>MainActivity.java</kbd> | Android Activity | Form validation logic | [View](MAD%20Lab/Experiment-9/MainActivity.java) |
+| <kbd>Simulation</kbd> | Android Project | Complete Virtual Lab Source | [View](MAD%20Lab/Virtual%20Lab/Experiment-9/Source%20Code/) |
+
+</details>
+
+<details>
+<summary><b>Experiment 10: Setup and Configuration of Wireless Access Points</b></summary>
+
+| Program | Category | Description | Source Code |
+|:---|:---|:---|:---:|
+| <kbd>Simulation</kbd> | Packet Tracer | Wireless Access Point Config | [View](MAD%20Lab/Virtual%20Lab/Experiment-10/Source%20Code/) |
 
 </details>
 
