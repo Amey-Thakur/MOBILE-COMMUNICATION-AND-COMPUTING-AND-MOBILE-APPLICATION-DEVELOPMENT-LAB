@@ -52,7 +52,7 @@ As a computer engineer, understanding mobile communication protocols and mobile 
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental concepts.
-- **Academic Documentation**: To authentically document my learning journey through MCC and Mobile Application Development Laboratory.
+- **Academic Documentation**: To authentically document my learning journey through Mobile Communication and Computing and Mobile Application Development Laboratory.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 > [!NOTE]
