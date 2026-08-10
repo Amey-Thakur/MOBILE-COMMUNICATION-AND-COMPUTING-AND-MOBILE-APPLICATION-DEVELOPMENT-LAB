@@ -10,9 +10,9 @@
   ### CSC702 & CSL702 · Semester VII · Computer Engineering
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   **A comprehensive academic resource for Mobile Communication and Computing (MCC) and Mobile Application Development Laboratory (MAD Lab), covering wireless networks, mobile communication protocols, Android application development, and mobile computing architectures.**
 
@@ -120,10 +120,10 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](MAD%20Lab/)
-  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](MAD%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-Java%20%7C%20XML-orange.svg)](MAD%20Lab/)
-  [![Virtual Lab](https://img.shields.io/badge/Virtual%20Lab-IIT%20Kharagpur-blue.svg)](http://vlabs.iitkgp.ac.in/fcmc/index.html)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-3949AB.svg)](MAD%20Lab/)
+  [![Status](https://img.shields.io/badge/Status-Complete-2EA043.svg)](MAD%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-Java%20%7C%20XML-8250DF.svg)](MAD%20Lab/)
+  [![Virtual Lab](https://img.shields.io/badge/Virtual%20Lab-IIT%20Kharagpur-39FF14.svg)](http://vlabs.iitkgp.ac.in/fcmc/index.html)
 
 </div>
 
