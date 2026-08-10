@@ -215,7 +215,7 @@ The laboratory component (CSL702) focuses on hands-on Android application develo
 
 | Program | Category | Description | Tutorial |
 |:---|:---|:---|:---:|
-| <kbd>Video Demo</kbd> | Wireshark | Packet Analysis Walkthrough | [Watch](MAD%20Lab/Virtual%20Lab/Experiment-7/Source%20Code/Experiment-7.avi) |
+| <kbd>Video Demo</kbd> | Wireshark | Packet Analysis Walkthrough | [Watch](MAD%20Lab/Virtual%20Lab/Experiment-7/Experiment-7.avi) |
 | <kbd>README.txt</kbd> | Text | Experiment Usage Instructions | [View](MAD%20Lab/Virtual%20Lab/Experiment-7/Source%20Code/README.txt) |
 
 </details>
