@@ -1,0 +1,81 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "additionalType": "https://schema.org/LearningResource",
+    "name": "MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB",
+    "description": "CSC702: Mobile Communication and Computing [MCC] & CSL702: Mobile Application Development Lab [MAD Lab] | BE Semester VII | Computer Engineering",
+    "identifier": "MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB",
+    "license": "https://spdx.org/licenses/CC-BY-4.0.html",
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateCreated": "2021-07-29",
+    "dateReleased": "2022-01-19",
+    "codeRepository": "https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
+    "developmentStatus": "complete",
+    "applicationCategory": "Academic Course Archive",
+    "educationalLevel": "Undergraduate, Fourth Year, Semester VII",
+    "keywords": [
+        "Android Development",
+        "Computer Engineering",
+        "Computer Science",
+        "Computing",
+        "Engineering",
+        "MCC",
+        "Mobile Application Development",
+        "Mobile Communication",
+        "Mobile Communication Networks",
+        "Mobile Computing",
+        "Mobile IP",
+        "Study Notes",
+        "Textbooks",
+        "University Of Mumbai",
+        "Wireshark Analysis",
+        "CSC702",
+        "CSL702",
+        "MAD Lab",
+        "Mobile Communication and Computing",
+        "Mobile Application Development Lab",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "BE Semester VII",
+        "Semester VII",
+        "Assignments",
+        "Laboratory Work",
+        "Question Papers",
+        "Reference Books",
+        "Syllabus",
+        "CBCGS",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ]
+}

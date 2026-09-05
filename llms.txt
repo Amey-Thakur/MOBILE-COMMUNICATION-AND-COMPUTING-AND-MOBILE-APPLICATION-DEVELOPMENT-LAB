@@ -1,0 +1,40 @@
+# Mobile Communication and Computing and Mobile Application Development Laboratory
+
+> CSC702: Mobile Communication and Computing [MCC] & CSL702: Mobile
+> Application Development Lab [MAD Lab] | BE Semester VII | Computer
+> Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Fourth Year, Semester VII
+Course codes: CSC702, CSL702
+Licence: CC BY 4.0, attribution required
+Repository created: 29 July 2021
+Work dated: 19 January 2022
+
+## What is in this repository
+
+- Assignments, 2 files
+- Exit survey, 2 files
+- Internal Assessment Test, 2 files
+- MAD Lab, 150 files
+- Question Papers, 32 files
+- Quizzes, 7 files
+- Reference Books, 10 files
+- Semester Exam, 1 file
+- Syllabus, 2 files
+
+## Subject terms
+
+android-development, computer-engineering, computer-science, computing,
+engineering, mcc, mobile-application-development, mobile-communication,
+mobile-communication-networks, mobile-computing, mobile-ip, study-notes,
+textbooks, university-of-mumbai, wireshark-analysis
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/MOBILE-COMMUNICATION-AND-COMPUTING-AND-MOBILE-APPLICATION-DEVELOPMENT-LAB
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
